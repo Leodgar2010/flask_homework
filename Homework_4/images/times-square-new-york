@@ -1,0 +1,1574 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="SHORTCUT ICON" HREF="https://www.stockvault.net/favicon.ico">
+<link rel="apple-touch-icon" sizes="120x120" href="/templates/default/images/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/templates/default/images/apple-touch-icon-152x152.png" />
+<link rel="search" type="application/opensearchdescription+xml" title="Stockvault" href="https://www.stockvault.net/blog/opensearch.xml">
+<meta name="description" content="Times square, Fifth Avenue, New York. - Non-Commercial License - No Attribution Required">
+<meta property="og:image" content="https://www.stockvault.net/data/2007/11/28/103899/preview16.jpg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Free Stock Photo of Times square, New York">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@stockvault">
+<meta name="twitter:title" content="Free Stock Photo of Times square, New York">
+<meta name="twitter:image" content="https://www.stockvault.net/data/2007/11/28/103899/preview16.jpg">
+<meta name="robots" content="max-image-preview:large">
+<link rel="canonical" href="https://www.stockvault.net/photo/103899/times-square-new-york?stream=True">
+<title>Times square, New York - Free Stock Photo by GIACOMO on Stockvault.net</title>
+<script type="application/ld+json">
+		{
+			"@context": "http://schema.org/",
+			"@type": "ImageObject",
+			"author": "GIACOMO",
+			"contentUrl": "https://www.stockvault.net/data/2007/11/28/103899/preview16.jpg",
+			"name": "Free photo of Times square, New York",
+			"license": "https://stockvault.net/terms-of-use",
+			"acquireLicensePage": "https://www.stockvault.net/photo/103899/times-square-new-york?stream=True",
+			"isAccessibleForFree": true,
+			"representativeOfPage": true
+		}
+	</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5adc74b8bc190a0013e2ac28&product=custom-share-buttons" async="async"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,600|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/allstyles.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/custom.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/style_mini2.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/responsive_minified.css" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+    
+    var ml_account = ml('accounts', '966686', 'o1t7m5w8r4', 'load');
+    </script>
+
+
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+        (function(){
+            var bsa_optimize=document.createElement('script');
+            bsa_optimize.type='text/javascript';
+            bsa_optimize.async=true;
+            bsa_optimize.src='https://cdn4.buysellads.net/pub/stockvault.js?'+(new Date()-new Date()%600000);
+            (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa_optimize);
+        })();
+    </script>
+</head>
+<body class="stretched sticky-responsive-menu no-transition">
+
+<div id="default_stockvaultnet"></div>
+
+<div id="wrapper" class="clearfix">
+
+<script type="text/javascript">
+	$(document).ready(function(){ // Advanced search options
+		
+		$.fn.select_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $("option:selected", $(this)).attr('value');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};
+
+		$.fn.input_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $(this).attr('value');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};
+
+		$.fn.id_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $(this).attr('id');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};		
+
+		$("#sc-block > .sc > a").click(function() {
+			
+			if (!$(this).hasClass('active')) {
+				$(this).id_to_input('co', '#searchform > .box');
+				$("#sc-block > .sc > a.active").removeClass('active');
+				$(this).addClass('active');
+			} else {
+				$(this).removeClass('active');
+				$("#searchform input[name='co']").remove();
+			}
+		});
+		
+		$("#as-date").change(function() {
+			$(this).select_to_input('dt', '#searchform > .box');
+		});
+		$("#as-shape").change(function() {
+			$(this).select_to_input('or', '#searchform > .box');
+		});
+		
+		$("#as-category").change(function() {
+			$(this).select_to_input('ci', '#searchform > .box');		
+		});
+		$("#as-photographer").change(function() {
+			$(this).input_to_input('pg', '#searchform > .box');		
+		});		
+		
+	});
+</script>
+<script>
+        $(document).ready(function() {
+            $('#searchform').submit(function(e) {
+                  // e.preventDefault();
+         var searchString = $('input.input_box', this).val().replace(/ /g, '+')
+			$(this).attr('action', '/free-photos/' + searchString)
+             //window.location.href = '/free-photos/' + searchString;
+			//e.preventDefault()
+            });
+         });
+</script>
+<div class="body-overlay"></div>
+<div id="side-panel">
+<div id="side-panel-trigger-close" class="side-panel-trigger"><a href="#"><i class="icon-line-cross"></i></a></div>
+<div class="side-panel-wrap">
+
+<div class="widget quick-contact-widget clearfix box">
+<h4>Advanced Search</h4>
+<form id="searchform" method="GET" action="/search/" class="quick-contact-form nobottommargin">
+<div class="box">
+<label>Keyword</label>
+<input id="search_input" mname="query" class="required sm-form-control input-block-level input_box empty" value type="text" name placeholder="Enter keyword..." />
+</div>
+<label>By photographer</label>
+<input id="as-photographer" name="pg" type="text" value class="sm-form-control input-block-level input_box" placeholder="Enter photographer name..." />
+<label>Category</label>
+<select id="as-category" name="ci" class="sm-form-control">
+<option value>All</option>
+<option value="39">3D Renders</option>
+<option value="1">Animals</option>
+<option value="5">Constructions</option>
+<option value="61">Graphics</option>
+<option value="53">Industrial</option>
+<option value="7">Nature</option>
+<option value="14">Objects</option>
+<option value="22">People</option>
+<option value="67">Seasonal</option>
+<option value="27">Textures</option>
+<option value="21">Transportation</option>
+</select>
+<label>Shape</label>
+<select id="as-shape" name="or" class="sm-form-control">
+<option value>Any</option>
+<option value="p">Portrait</option>
+<option value="l">Landscape</option>
+<option value="s">Square</option></select>
+<label>Date</label>
+<select id="as-date" name="dt" class="sm-form-control">
+<option value>All time</option>
+<option value="1d">Last day</option>
+<option value="1w">Last week</option>
+<option value="1m">Last month</option>
+<option value="1y">Last year</option></select>
+<label>License</label>
+<select class="sm-form-control" name="li">
+<option value>All License</option>
+<option value="1">Non-Commercial</option>
+<option value="2">Commercial</option>
+<option value="3">Creative Commons - CC0</option>
+</select>
+<label>Color</label>
+<div id="sc-block">
+<div class="sc" name="co" id="swatch0"><a title="Red" style="background-color: #CC0000" href="#" id="CC0000"></a></div>
+<div class="sc" name="co" id="swatch1"><a title="Orange" style="background-color: #FB940B;" href="#" id="FB940B"></a></div>
+<div class="sc" name="co" id="swatch2"><a title="Yellow" style="background-color: #FFFF00;" href="#" id="FFFF00"></a></div>
+<div class="sc" name="co" id="swatch3"><a title="Green" style="background-color: #00CC00;" href="#" id="00CC00"></a></div>
+<div class="sc" name="co" id="swatch4"><a title="Teal" style="background-color: #03C0C6;" href="#" id="03C0C6"></a></div>
+<div class="sc" name="co" id="swatch5"><a title="Blue" style="background-color: #0000FF;" href="#" id="0000FF"></a></div>
+<div class="sc" name="co" id="swatch6"><a title="Purple" style="background-color: #762CA7;" href="#" id="762CA7"></a></div>
+<div class="sc" name="co" id="swatch7"><a title="Pink" style="background-color: #FF98BF;" href="#" id="FF98BF"></a></div>
+<div class="sc" name="co" id="swatch8"><a title="White" style="background-color: #FFFFFF;" href="#" id="FFFFFF"></a></div>
+<div class="sc" name="co" id="swatch9"><a title="Gray" style="background-color: #999999;" href="#" id="999999"></a></div>
+<div class="sc" name="co" id="swatch10"><a title="Black" style="background-color: #000000;" href="#" id="000000"></a></div>
+<div class="sc" name="co" id="swatch11"><a title="Brown" style="background-color: #885418;" href="#" id="885418"></a></div>
+</div>
+<div class="clear"></div>
+<input class="button button-3d button-black topmargin-sm noleftmargin" name value="Search" type="submit" />
+</form>
+</div>
+
+</div>
+</div>
+
+<header id="header" class="dark full-header">
+<div id="header-wrap">
+<div class="container clearfix">
+<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+<div id="logo">
+<a href="//www.stockvault.net" class="standard-logo" data-dark-logo="/templates/default/images/logo-dark.png"><img src="/templates/default/images/logo.png" alt="Stockvault.net - Free Stock Photos"></a>
+<a href="//www.stockvault.net" class="retina-logo" data-dark-logo="/templates/default/images/logo-dark@2x.png"><img src="/templates/default/images/logo@2x.png" alt="Stockvault.net - Free Stock Photos"></a>
+</div>
+
+<nav id="primary-menu">
+<ul>
+<li><a href="//www.stockvault.net/"><div>Photos</div></a>
+<ul>
+<li><a href="//www.stockvault.net/latest-photos/"><div>Latest Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-popular-photos/"><div>Most Popular Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-downloaded-photos/"><div>Most Downloaded Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-loved-photos/"><div>Most Loved Photos</div></a></li>
+<li><a href="//www.stockvault.net/featured-photos/"><div>Featured Photos</div></a></li>
+<li><a href="//www.stockvault.net/popular-keywords/"><div>Popular Keywords</div></a></li>
+</ul>
+</li>
+<li><a href="//www.stockvault.net/collections/"><div>Collections</div></a></li>
+<li class="mega-menu cat"><a href="#"><div>Categories</div></a>
+<div class="mega-menu-content style-2 clearfix">
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/animals"><div>Animals</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/animals/birds"><div>Birds</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/bones"><div>Bones</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/cats-and-dogs"><div>Cats and Dogs</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/fish"><div>Fish</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/insects"><div>Insects</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/reptiles"><div>Reptiles</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/transportation"><div>Transportation</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/transportation/airplanes"><div>Airplanes</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/automobile"><div>Automobile</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/bikes"><div>Bikes</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/boats"><div>Boats</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/trains"><div>Trains</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/graphics"><div>Graphics</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/graphics/clip-art"><div>Clip Art</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/logo-templates"><div>Logo Templates</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/photoshop-brushes"><div>Photoshop Brushes</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/vector"><div>Vector</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/web-templates"><div>Web Templates</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/constructions"><div>Constructions</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/constructions/abandoned"><div>Abandoned</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/bridges"><div>Bridges</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/castle"><div>Castle</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/church-and-cemetery"><div>Church &amp; Cemetery</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/glass-and-windows"><div>Glass &amp; Windows</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/office-and-workplace"><div>Office &amp; Workspace</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/roads-and-streets"><div>Roads &amp; Streets</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/skyscrapers"><div>Skyscrapers</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/stairs-and-ladders"><div>Stairs &amp; Ladders</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/tanks-and-towers"><div>Tanks &amp; Towers</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/tunnels"><div>Tunnels</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/vents-and-drains"><div>Vents &amp; Drains</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/nature"><div>Nature</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/nature/fire-fog-and-smoke"><div>Fire, Fog &amp; Smoke</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/flowers"><div>Flowers</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/ice-and-snow"><div>Ice &amp; Snow</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/landscape"><div>Landscape</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/lunar-and-space"><div>Lunar &amp; Space</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/plants-and-trees"><div>Plants &amp; Trees</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/sea-and-water"><div>Sea &amp; Water</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/sky-and-clouds"><div>Sky &amp; Clouds</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/stone-and-rocks"><div>Stone &amp; Rocks</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/industrial"><div>Industrial</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/industrial/electricity"><div>Electricity</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/locks-and-chains"><div>Locks &amp; Chains</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/pipes-and-wire"><div>Pipes &amp; Wire</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/rusted"><div>Rusted</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/screws-bolts-and-wheels"><div>Screws, Bolts &amp; Wheels</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/objects"><div>Objects</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/objects/art-supplies"><div>Art Supplies</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/cosmetics"><div>Cosmetics</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/electronics"><div>Electronics</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/entertainment"><div>Entertainment</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/flags"><div>Flags</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/food-and-drink"><div>Food &amp; Drink</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/furniture"><div>Furniture</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/household-items"><div>Household Items</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/jewelry"><div>Jewelry</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/medical"><div>Medical</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/money"><div>Money</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/music"><div>Music</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/office-supplies"><div>Office Supplies</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/paper-and-books"><div>Paper &amp; Books</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/religion"><div>Religion</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/sculptures"><div>Sculptures</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/signs"><div>Signs</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/stamps"><div>Stamps</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/tools-and-weapons"><div>Tools &amp; Weapons</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/toys"><div>Toys</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/people"><div>People</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/people/children"><div>Children</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-activity"><div>Human Activity</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-bones"><div>Human Bones</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-closeups"><div>Human Closeups</div></a></li>
+<li><a href="//www.stockvault.net/c/people/portraits"><div>Portraits</div></a></li>
+<li><a href="//www.stockvault.net/c/people/sports-activity"><div>Sports Activity</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/seasonal"><div>Seasonal</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/seasonal/christmas"><div>Christmas</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/easter"><div>Easter</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/fireworks"><div>Fireworks</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/halloween"><div>Halloween</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/valentines-day"><div>Valentines Day</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/3d-renders"><div>3D Renders</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/3d-renders/landscapes"><div>3D Landscapes</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/3d-text"><div>3D Text</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/abstract-shapes"><div>Abstract Shapes</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/boxes-and-models"><div>Boxes and Models</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/textures"><div>Textures</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/textures/burned-textures"><div>Burned Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/dirt-and-mud-textures"><div>Dirt &amp; Mud Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/fabric-textures"><div>Fabric Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/grunge-textures"><div>Grunge Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/light-effects"><div>Light Effects</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/metal-and-rust"><div>Metal &amp; Rust</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/misc-textures"><div>Misc Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/organic-textures"><div>Organic Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/paint-textures"><div>Paint Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/paper-textures"><div>Paper Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/plastic-textures"><div>Plastic Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/stone-and-rock-textures"><div>Stone &amp; Rock Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/water-and-liquid-textures"><div>Water &amp; Liquid Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/wood-textures"><div>Wood Textures</div></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a href="//www.stockvault.net/blog"><div>Blog</div></a></li>
+<li><a href="//www.stockvault.net/premium/photos/business" class="premium-menu"><div>Premium</div></a>
+<ul>
+<li><a href="//www.stockvault.net/premium/photos/business/"><div>Stock Photos</div></a></li>
+<li><a href="//www.stockvault.net/premium/vectors/business"><div>Stock Vectors</div></a></li>
+<li><a href="//www.stockvault.net/premium/footage/business"><div>Stock Footage</div></a></li>
+</ul>
+</li>
+<li><a href="#"><div>Info</div></a>
+<ul>
+<li><a href="//www.stockvault.net/about"><div>About us</div></a></li>
+<li><a href="//www.stockvault.net/advertise"><div>Advertise</div></a></li>
+<li><a href="//www.stockvault.net/contact"><div>Contact</div></a></li>
+<li><a href="//www.stockvault.net/terms-of-use"><div>Terms of Use</div></a></li>
+<li><a href="//www.stockvault.net/faq"><div>FAQs</div></a></li>
+<li><a href="//www.stockvault.net/photographer-appreciation-program"><div>Revenue Sharing</div></a></li>
+<li><a href="//www.stockvault.net/tutorials"><div>Tutorials</div></a></li>
+<li><a href="//www.stockvault.net/resources"><div>Resources</div></a></li>
+<li><a href="//www.stockvault.net/latest-comments"><div>Latest Comments</div></a></li>
+</ul>
+</li>
+<li class="current"><a href="#"><div>Upload a Photo</div></a>
+<ul>
+<li><a href="//www.stockvault.net/login" class="login"><div>Login</div></a></li>
+<li><a href="//www.stockvault.net/user/register"><div>Register</div></a></li>
+</ul>
+</li>
+</ul>
+
+<div id="top-cart">
+<a href="#" id="top-cart-trigger"><i class="icon-line-bell"></i></a>
+<div class="top-cart-content">
+<div class="top-cart-title clearfix">
+<h4 style="text-transform:none;float:left;">Notifications</h4>
+<div style="float: right;">
+</div>
+</div>
+<div class="top-cart-items">
+<div class="top-cart-item clearfix" style="padding-right: 20px;position: relative;">
+<div class="top-cart-item-desc" style="font-size:13px;">
+No notification.
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="top-search">
+<a href="#" title="Advanced Search" class="side-panel-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<script type="text/javascript">
+
+	$(function() {
+		$("a.like_image_button").click(function() {
+			var t = $(this);
+			$.post("/photo/like/h", { photoId: "103899", time: "2pm" },
+			function(data){
+				if (data=='1') {
+					var counter = $("#like_counter");
+					var current = parseInt(counter.text());
+					current += 1;
+					counter.text(current.toString());
+					//$("a.like_image_button").fadeOut();
+					
+				}
+				$("a.like_image_button").addClass('active');
+			});
+		});
+		$("#actions > .publish").click(function(){
+			var ap = $(this);
+			$.post("/photo/publish/h", { "photoId": '103899', "op": 1 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .unpublish").click(function(){
+			var ap = $(this);
+			$.post("/photo/publish/h", { "photoId": '103899', "op": 0 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .feature").click(function() {
+			var ap = $(this);
+			$.post("/photo/feature/h", { "photoId": '103899', "op": 1 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .unfeature").click(function(){
+			var ap = $(this);
+			$.post("/photo/feature/h", { "photoId": '103899', "op": 0 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+
+	});
+	
+	
+	</script>
+
+<section id="content" style="clear: both; padding-top: 30px;">
+<div class="content-wrap nopadding">
+<div class="container clearfix">
+<div class="col_three_fifth">
+<div class="nobottommargin">
+
+
+<div class="col_full portfolio-single-image bottommargin-sm">
+<div style="display:block; float:right; margin-bottom: -55px;">
+</div>
+<img src="/./data/2007/11/28/103899/preview16.jpg" alt="Free stock image of Times square, New York created by GIACOMO" class="single-image" />
+<div style="display: block; margin: 10px auto;">
+<span id="actions" class="actions">
+</span>
+</div>
+</div>
+<div class="center bottommargin-sm">
+<div class="center nomargin nopadding">
+<a href="https://shutterstock.7eer.net/c/2029636/1615122/1305?subId1=stockvault-single-photo-small-banner&sharedid=StockVault-ImageFTTest" target="_blank" rel="nofollow">
+<img src="https://www.stockvault.net/templates/default/images/shutterstock-10-free-images-770.png" alt="Shutterstock.com">
+</a>
+</div>
+<hr/></div>
+<h1 class="font-body" style="line-height:1.1!important; margin-bottom:5px!important;font-size:30px;">Times square, New York</h1>
+<p style="line-height:1.2;" class="lead bottommargin-sm">Times square, Fifth Avenue, New York.</p>
+
+<div class="tabs clearfix nobottommargin" id="tab-1">
+<ul class="tab-nav clearfix">
+<li><a href="#tabs-1"><i class="icon-align-justify2"></i><span class="hidden-xs"> Info</span></a></li>
+<li><a href="#tabs-2"><i class="icon-comments"></i><span class="hidden-xs"> Comments</span></a></li>
+</ul>
+<div class="tab-container">
+<div class="tab-content clearfix" id="tabs-1">
+
+<div class="col_full portfolio-single-content nobottommargin">
+
+<div class="nopadding" style="margin: 10px 0 15px;">Category: <a href="/c/human-activity">Human activity</a>
+</div>
+<div class="tagcloud nobottommargin" style="overflow-y:auto; max-height:180px;">
+<a href="/free-photos/newyork">newyork</a>
+<a href="/free-photos/timessquare">timessquare</a>
+<a href="/free-photos/fifthavenue">fifthavenue</a>
+<a href="/free-photos/venice">venice</a>
+<a href="/free-photos/person">person</a>
+<a href="/free-photos/run">run</a>
+<a href="/free-photos/walkway">walkway</a>
+<a href="/free-photos/street">street</a>
+<a href="/free-photos/traffic">traffic</a>
+<a href="/free-photos/urban">urban</a>
+<a href="/free-photos/cars">cars</a>
+<a href="/free-photos/fast">fast</a>
+<a href="/free-photos/hurry">hurry</a>
+<a href="/free-photos/speed">speed</a>
+<a href="/free-photos/blurry">blurry</a>
+<a href="/free-photos/black">black</a>
+<a href="/free-photos/white">white</a>
+<a href="/free-photos/running">running</a>
+<a href="/free-photos/man">man</a>
+</div>
+
+</div>
+</div>
+<div class="tab-content clearfix" id="tabs-2">
+<div id="reviews" class="clearfix">
+<ol class="commentlist clearfix">
+</ol>
+
+<a href="#" data-toggle="modal" data-target="#reviewFormModal" class="button button-3d nomargin fright">Add a Comment</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col_two_fifth col_last">
+<div id="svpre">
+<div class="widget clearfix" style="border-bottom:1px solid #eee;padding: 0px 0px 0px 0px;margin: 0px 5px 3px 5px;">
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/photos/newyork-timessquare-fifthavenue" title="Find Similar Premium Photos" class="nomargin center button btn-block button-small button-blue" style="display:block;"><i class="icon-line-image"></i> Photos</a>
+</div>
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/vectors/newyork-timessquare-fifthavenue" title="Find Similar Premium Vectors" class="nomargin center button btn-block button-small button-red" style="display:block;"><i class="icon-line2-vector"></i> Vectors</a>
+</div>
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/footage/newyork-timessquare-fifthavenue" title="Find Similar Premium Footage" class="nomargin center button btn-block button-small button-amber" style="display:block;"><i class="icon-line-video"></i> Footage</a>
+</div>
+</div>
+<div style="margin: 0px 5px 3px;font-size:12px;color:#afafaf;">
+<a class="fright" href="http://shutterstock.7eer.net/c/13749/42119/1305?subId1=imgdetail&amp;subId2=sidebar-B5&amp;subId3=logo&amp;sharedid=photo-detail-logo&amp;u=http%3A%2F%2Fwww.shutterstock.com" target="_blank" rel="nofollow"><img height="11px" src="https://www.stockvault.net/templates/default/images/shutterstock_logo2.png" alt="Shutterstock.com" /></a>Similar Sponsored Images
+</div>
+<div id="dt1" class="flex-shutterstock flex-images" style="margin: 0px auto 0px; display: none;">
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=404241190&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign of Fifth Ave and West 33rd St at sunset in New York City - Urban road concept direction in Ny Manhattan downtown - American world famous capital destination on warm dramatic filtered look">
+<img src="https://image.shutterstock.com/mosaic_250/1428518/404241190/stock-photo-street-sign-of-fifth-ave-and-west-rd-st-at-sunset-in-new-york-city-urban-road-concept-direction-404241190.jpg" data-src="https://image.shutterstock.com/mosaic_250/1428518/404241190/stock-photo-street-sign-of-fifth-ave-and-west-rd-st-at-sunset-in-new-york-city-urban-road-concept-direction-404241190.jpg" alt="Street sign of Fifth Ave and West 33rd St at sunset in New York City - Urban road concept direction in Ny Manhattan downtown - American world famous capital destination on warm dramatic filtered look">
+</a>
+</div>
+<div class="item" data-w="450" data-h="281">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1226415520&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign of Fifth Ave and West 33rd St in New York City - Urban concept and road direction in Manhattan downtown - American world famous capital destination on azure desaturated afternoon filter">
+<img src="https://image.shutterstock.com/mosaic_250/1428518/1226415520/stock-photo-street-sign-of-fifth-ave-and-west-rd-st-in-new-york-city-urban-concept-and-road-direction-in-1226415520.jpg" data-src="https://image.shutterstock.com/mosaic_250/1428518/1226415520/stock-photo-street-sign-of-fifth-ave-and-west-rd-st-in-new-york-city-urban-concept-and-road-direction-in-1226415520.jpg" alt="Street sign of Fifth Ave and West 33rd St in New York City - Urban concept and road direction in Manhattan downtown - American world famous capital destination on azure desaturated afternoon filter">
+</a>
+</div>
+<div class="item" data-w="450" data-h="299">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=264539843&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Rush hour with defocused yellow taxi cabs and traffic jam on 5th avenue in Manhattan downtown at sunset - Blurred bokeh postcard of New York City on a vintage marsala color filtered look">
+<img src="https://image.shutterstock.com/mosaic_250/1428518/264539843/stock-photo-rush-hour-with-defocused-yellow-taxi-cabs-and-traffic-jam-on-th-avenue-in-manhattan-downtown-at-264539843.jpg" data-src="https://image.shutterstock.com/mosaic_250/1428518/264539843/stock-photo-rush-hour-with-defocused-yellow-taxi-cabs-and-traffic-jam-on-th-avenue-in-manhattan-downtown-at-264539843.jpg" alt="Rush hour with defocused yellow taxi cabs and traffic jam on 5th avenue in Manhattan downtown at sunset - Blurred bokeh postcard of New York City on a vintage marsala color filtered look">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=368816549&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="New York - Midtown">
+<img src="https://image.shutterstock.com/mosaic_250/3182249/368816549/stock-photo-new-york-midtown-368816549.jpg" data-src="https://image.shutterstock.com/mosaic_250/3182249/368816549/stock-photo-new-york-midtown-368816549.jpg" alt="New York - Midtown">
+</a>
+</div>
+<div class="item" data-w="450" data-h="311">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=3964489&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="FIfth Avenue Street SIgn in New York City, a popular venue for stores, shops and entertainment in Manhattan, conceptually can represent success, commercialism, retail">
+<img src="https://image.shutterstock.com/mosaic_250/61446/3964489/stock-photo-fifth-avenue-street-sign-in-new-york-city-a-popular-venue-for-stores-shops-and-entertainment-in-3964489.jpg" data-src="https://image.shutterstock.com/mosaic_250/61446/3964489/stock-photo-fifth-avenue-street-sign-in-new-york-city-a-popular-venue-for-stores-shops-and-entertainment-in-3964489.jpg" alt="FIfth Avenue Street SIgn in New York City, a popular venue for stores, shops and entertainment in Manhattan, conceptually can represent success, commercialism, retail">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=174456656&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="5th Avenue,  New York, USA">
+<img src="https://image.shutterstock.com/mosaic_250/178732/174456656/stock-photo--th-avenue-new-york-usa-174456656.jpg" data-src="https://image.shutterstock.com/mosaic_250/178732/174456656/stock-photo--th-avenue-new-york-usa-174456656.jpg" alt="5th Avenue,  New York, USA">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=680249377&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Aerial view of downtown Manhattan with Empire State Building and statue of liberty in the far view. Empire State Building is a 102 skyscraper located on Fifth Avenue between West 33rd and 34th Streets">
+<img src="https://image.shutterstock.com/mosaic_250/164596892/680249377/stock-photo-aerial-view-of-downtown-manhattan-with-empire-state-building-and-statue-of-liberty-in-the-far-view-680249377.jpg" data-src="https://image.shutterstock.com/mosaic_250/164596892/680249377/stock-photo-aerial-view-of-downtown-manhattan-with-empire-state-building-and-statue-of-liberty-in-the-far-view-680249377.jpg" alt="Aerial view of downtown Manhattan with Empire State Building and statue of liberty in the far view. Empire State Building is a 102 skyscraper located on Fifth Avenue between West 33rd and 34th Streets">
+</a>
+</div>
+<div class="item" data-w="450" data-h="247">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=218189101&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Fifth Avenue sign in New York.">
+<img src="https://image.shutterstock.com/mosaic_250/1531250/218189101/stock-photo-fifth-avenue-sign-in-new-york-218189101.jpg" data-src="https://image.shutterstock.com/mosaic_250/1531250/218189101/stock-photo-fifth-avenue-sign-in-new-york-218189101.jpg" alt="Fifth Avenue sign in New York.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=368816594&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="New York - Midtown">
+<img src="https://image.shutterstock.com/mosaic_250/3182249/368816594/stock-photo-new-york-midtown-368816594.jpg" data-src="https://image.shutterstock.com/mosaic_250/3182249/368816594/stock-photo-new-york-midtown-368816594.jpg" alt="New York - Midtown">
+</a>
+</div>
+<div class="item" data-w="360" data-h="450">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=152375633&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Unique abstract rock mosaic">
+<img src="https://image.shutterstock.com/mosaic_250/576247/152375633/stock-photo-unique-abstract-rock-mosaic-152375633.jpg" data-src="https://image.shutterstock.com/mosaic_250/576247/152375633/stock-photo-unique-abstract-rock-mosaic-152375633.jpg" alt="Unique abstract rock mosaic">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1150504892&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign of Fifth Ave and East 34th street in front of Empire State Building">
+<img src="https://image.shutterstock.com/mosaic_250/1993499/1150504892/stock-photo-street-sign-of-fifth-ave-and-east-th-street-in-front-of-empire-state-building-1150504892.jpg" data-src="https://image.shutterstock.com/mosaic_250/1993499/1150504892/stock-photo-street-sign-of-fifth-ave-and-east-th-street-in-front-of-empire-state-building-1150504892.jpg" alt="Street sign of Fifth Ave and East 34th street in front of Empire State Building">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=300756632&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="New york City abstract rush hour - Defocused yellow taxi cabs and traffic jam on 5th avenue in Manhattan downtown at blue hour - Blurred bokeh postcard on a retro vintage nostalgic filtered look">
+<img src="https://image.shutterstock.com/mosaic_250/1428518/300756632/stock-photo-new-york-city-abstract-rush-hour-defocused-yellow-taxi-cabs-and-traffic-jam-on-th-avenue-in-300756632.jpg" data-src="https://image.shutterstock.com/mosaic_250/1428518/300756632/stock-photo-new-york-city-abstract-rush-hour-defocused-yellow-taxi-cabs-and-traffic-jam-on-th-avenue-in-300756632.jpg" alt="New york City abstract rush hour - Defocused yellow taxi cabs and traffic jam on 5th avenue in Manhattan downtown at blue hour - Blurred bokeh postcard on a retro vintage nostalgic filtered look">
+</a>
+</div>
+<div class="item" data-w="450" data-h="299">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=585298889&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign of Fifth Ave and East 42nd St - New York, USA">
+<img src="https://image.shutterstock.com/mosaic_250/4432123/585298889/stock-photo-street-sign-of-fifth-ave-and-east-nd-st-new-york-usa-585298889.jpg" data-src="https://image.shutterstock.com/mosaic_250/4432123/585298889/stock-photo-street-sign-of-fifth-ave-and-east-nd-st-new-york-usa-585298889.jpg" alt="Street sign of Fifth Ave and East 42nd St - New York, USA">
+</a>
+</div>
+<div class="item" data-w="450" data-h="319">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=231859459&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Fisheye aerial panoramic view over upper Manhattan, New York. Sunset of a clean, sunny day with exceptional visibility.">
+<img src="https://image.shutterstock.com/mosaic_250/81169/231859459/stock-photo-fisheye-aerial-panoramic-view-over-upper-manhattan-new-york-sunset-of-a-clean-sunny-day-with-231859459.jpg" data-src="https://image.shutterstock.com/mosaic_250/81169/231859459/stock-photo-fisheye-aerial-panoramic-view-over-upper-manhattan-new-york-sunset-of-a-clean-sunny-day-with-231859459.jpg" alt="Fisheye aerial panoramic view over upper Manhattan, New York. Sunset of a clean, sunny day with exceptional visibility.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="337">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=613413785&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Bird's eye view of New York City. Looking down on Manhattan from skyscraper. Cars, taxis and people moving through busy intersection.  White zebra crossing and New York yellow cabs. Filter effect.">
+<img src="https://image.shutterstock.com/mosaic_250/2632642/613413785/stock-photo-bird-s-eye-view-of-new-york-city-looking-down-on-manhattan-from-skyscraper-cars-taxis-and-people-613413785.jpg" data-src="https://image.shutterstock.com/mosaic_250/2632642/613413785/stock-photo-bird-s-eye-view-of-new-york-city-looking-down-on-manhattan-from-skyscraper-cars-taxis-and-people-613413785.jpg" alt="Bird's eye view of New York City. Looking down on Manhattan from skyscraper. Cars, taxis and people moving through busy intersection.  White zebra crossing and New York yellow cabs. Filter effect.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="298">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=649201003&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="old street clock">
+<img src="https://image.shutterstock.com/mosaic_250/3537362/649201003/stock-photo-old-street-clock-649201003.jpg" data-src="https://image.shutterstock.com/mosaic_250/3537362/649201003/stock-photo-old-street-clock-649201003.jpg" alt="old street clock">
+</a>
+</div>
+<div class="item" data-w="450" data-h="303">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=549437548&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Fifth Avenue Clock, New York. USA">
+<img src="https://image.shutterstock.com/mosaic_250/2467313/549437548/stock-photo-fifth-avenue-clock-new-york-usa-549437548.jpg" data-src="https://image.shutterstock.com/mosaic_250/2467313/549437548/stock-photo-fifth-avenue-clock-new-york-usa-549437548.jpg" alt="Fifth Avenue Clock, New York. USA">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=518627821&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign on W 30 St in New York City - Urban concept in Midtown Manhattan.">
+<img src="https://image.shutterstock.com/mosaic_250/936964/518627821/stock-photo-street-sign-on-w-st-in-new-york-city-urban-concept-in-midtown-manhattan-518627821.jpg" data-src="https://image.shutterstock.com/mosaic_250/936964/518627821/stock-photo-street-sign-on-w-st-in-new-york-city-urban-concept-in-midtown-manhattan-518627821.jpg" alt="Street sign on W 30 St in New York City - Urban concept in Midtown Manhattan.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=534589726&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Street sign of Fifth Ave and East 34th Street in Manhattan, New York">
+<img src="https://image.shutterstock.com/mosaic_250/1993499/534589726/stock-photo-street-sign-of-fifth-ave-and-east-th-street-in-manhattan-new-york-534589726.jpg" data-src="https://image.shutterstock.com/mosaic_250/1993499/534589726/stock-photo-street-sign-of-fifth-ave-and-east-th-street-in-manhattan-new-york-534589726.jpg" alt="Street sign of Fifth Ave and East 34th Street in Manhattan, New York">
+</a>
+</div>
+<div class="item" data-w="300" data-h="450">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=371056367&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Fifth avenue & Flat Iron building">
+<img src="https://image.shutterstock.com/mosaic_250/3933194/371056367/stock-photo-fifth-avenue-flat-iron-building-371056367.jpg" data-src="https://image.shutterstock.com/mosaic_250/3933194/371056367/stock-photo-fifth-avenue-flat-iron-building-371056367.jpg" alt="Fifth avenue & Flat Iron building">
+</a>
+</div>
+<script type="text/javascript">
+                                        $(document).ready(function() {
+
+										// $('#dt1').hide();
+
+          //                                   $('#dt1').shutterstock({
+          //                                       type: 'get',
+          //                                       num: '15',
+          //                                       shuffle: false,
+          //                                       query: '',
+          //                                       subid1: 'imgdetail',
+          //                                       subid2: 'sidebar-B5',
+          //                                       subid3: 'mosaicapi',
+          //                                       sharedid: 'photo-detail-sidebar',
+          //                                       typephoto: ''
+          //                                   });
+										// setTimeout(function(){
+										// 	// $('#dt1.flex-shutterstock').flexImages({rowHeight: 145, truncate: 1, maxRows: 4});
+										// 	// $('#dt1').fadeIn('fast');
+										// },2000); 
+
+										// $('#dt1').bind("DOMSubtreeModified",function(){
+  								// 			$('#dt1.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 3});
+										// 	$('#dt1').fadeIn('fast');
+										// });
+                                        });
+
+                                    </script>
+</div>
+<div class="widget center clearfix" style="margin: 7px auto 20px;">
+<a href="#myDownload" data-lightbox="inline" title="Download Times square, New York Stock Photo" data-image-id="103899" class="button button-rounded button-reveal button-green buttondownload" data-class-lg="button-large" data-class-md="button-large" data-class-sm="button-small" data-class-xs="button-large" data-class-xxs="button-large"><i class="icon-arrow-down2"></i><span>Free Download</span></a> <a class="button button-rounded button-reveal button-dark" data-toggle="modal" data-target="#myModal" id="donate_button" title="Support us - help keep this site free" href="#" data-class-lg="button-large" data-class-md="button-large" data-class-sm="button-small" data-class-xs="button-large" data-class-xxs="button-large"><i class="icon-coffee2"></i><span>Buy me Coffee</span></a>
+<div class="si-share nobottomborder nobottommargin clearfix" style="border-top:1px solid #eee;padding:15px 0 5px;margin-top:10px;">
+<div class="sharethis-inline-share-buttons"></div>
+</div>
+
+<div class="modal1 mfp-hide subscribe-widget" id="myDownload">
+<div class="block divcenter" style="background-color: #1d242c; color: #FFF!important; max-width: 600px;">
+<h4 class="nobottommargin center" style="padding:20px 0!important;background-color:#35aadd!important;color:#FFF!important;">THANKS FOR DOWNLOADING!</h4>
+<div class="feature-box fbox-center fbox-effect fbox-border nobottomborder nobottommargin notopmargin" style="padding: 30px;">
+<h3 style="color:#FFF!important;">Did you find the image you were looking for?<span class="subtitle" style="color:#FFF!important;">If not, check out the premium photos from Shutterstock!</span></h3>
+<p><a href="https://shutterstock.7eer.net/c/2029636/1615122/1305?subId1=stockvault-after-download-modal&sharedid=StockVault-ImageFTTest" target="_blank"><img src="https://www.stockvault.net/templates/default/images/ss10free.jpg" border="0" alt="Get 10 free images now"></a></p>
+</div>
+<div class="section center nomargin" style="padding: 20px 30px; background-color: #131519;">
+<a href="#" data-href="#" class="dark ls1" style="text-transform: uppercase;font-size: 12px;" onClick="$.magnificPopup.close();">No Thanks, Close this Window</a>
+</div>
+</div>
+</div>
+<span class="clear"></span>
+</div>
+</div>
+<div class="col_one_third nobottommargin">
+<div class="widget clearfix center">
+<div style="margin-top: 5px; margin-bottom: 20px;">
+<div class="footer-big-contacts">
+12171
+<span>Views</span>
+</div>
+</div>
+<div style="margin-bottom: 20px;">
+<div class="footer-big-contacts">
+3304 <span>Downloads</span>
+</div>
+</div>
+<div class>
+<div class="footer-big-contacts">
+4 <span>Likes</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col_two_third nobottommargin col_last">
+<div class="widget clearfix noborder notopmargin notoppadding">
+
+<div class="panel panel-default events-meta">
+<div class="panel-body">
+<ul class="portfolio-meta nobottommargin">
+<li><span><i class="icon-user"></i>Author:</span> <a href="/user/profile/2106">GIACOMO</a></li>
+<li><span><i class="icon-calendar3"></i>Uploaded:</span> November 28th 2007</li>
+<li><span><i class="icon-files"></i>License:</span> <a href="//stockvault.net/terms-of-use">Non-Commercial</a></li>
+<li><span><i class="icon-measure"></i>Dimentions:</span> 1600 x 985 px</li>
+<li><span><i class="icon-archive2"></i>File Size:</span> 161.77 KB</li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+<div style="clear:both;"></div>
+<div id="dt3" class="flex-shutterstock flex-images" style="margin: 0px auto 0px; display: none;">
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1093197937" rel="nofollow" class="preview_video" target="_blank" title="Blurred out people and traffic on streets of NYC, USA - low, tracking, slider shot">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1093197937/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1093197937/thumb/stock-footage-blurred-out-people-and-traffic-on-streets-of-nyc-usa-low-tracking-slider-shot.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1093197937/thumb/stock-footage-blurred-out-people-and-traffic-on-streets-of-nyc-usa-low-tracking-slider-shot.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068536747" rel="nofollow" class="preview_video" target="_blank" title="New York City: Broadway and Fifth Avenue Skyscrapers in Silhouette, Time Lapse at Twilight, Manhattan">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068536747/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068536747/thumb/stock-footage-new-york-city-broadway-and-fifth-avenue-skyscrapers-in-silhouette-time-lapse-at-twilight.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068536747/thumb/stock-footage-new-york-city-broadway-and-fifth-avenue-skyscrapers-in-silhouette-time-lapse-at-twilight.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068539903" rel="nofollow" class="preview_video" target="_blank" title="Broadway and Fifth Avenue by Night, Time Lapse with Full Moon, Fog, Smoke and Dark Atmosphere, Manhattan, New York City">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068539903/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068539903/thumb/stock-footage-broadway-and-fifth-avenue-by-night-time-lapse-with-full-moon-fog-smoke-and-dark-atmosphere.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068539903/thumb/stock-footage-broadway-and-fifth-avenue-by-night-time-lapse-with-full-moon-fog-smoke-and-dark-atmosphere.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-28153201" rel="nofollow" class="preview_video" target="_blank" title="Timelapse of downtown New York City (Manhattan) at dusk ">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/28153201/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/28153201/thumb/stock-footage-timelapse-of-downtown-new-york-city-manhattan-at-dusk.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/28153201/thumb/stock-footage-timelapse-of-downtown-new-york-city-manhattan-at-dusk.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1071094315" rel="nofollow" class="preview_video" target="_blank" title="Madison Square and Broadway Street at Sunrise, Time Lapse with Silhouette of Skyscrapers in Manhattan, New York City">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1071094315/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1071094315/thumb/stock-footage-madison-square-and-broadway-street-at-sunrise-time-lapse-with-silhouette-of-skyscrapers-in.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1071094315/thumb/stock-footage-madison-square-and-broadway-street-at-sunrise-time-lapse-with-silhouette-of-skyscrapers-in.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068538901" rel="nofollow" class="preview_video" target="_blank" title="Manhattan: Skyscrapers in Broadway and Fifth Avenue by Night with Stars and Milky Way in Background, New York City, USA">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068538901/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068538901/thumb/stock-footage-manhattan-skyscrapers-in-broadway-and-fifth-avenue-by-night-with-stars-and-milky-way-in-background.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068538901/thumb/stock-footage-manhattan-skyscrapers-in-broadway-and-fifth-avenue-by-night-with-stars-and-milky-way-in-background.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068522806" rel="nofollow" class="preview_video" target="_blank" title="Fifth Avenue: Time Lapse at Sunset with Dark Silhouette of Skyscrapers, Manhattan, New York City, USA">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068522806/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068522806/thumb/stock-footage-fifth-avenue-time-lapse-at-sunset-with-dark-silhouette-of-skyscrapers-manhattan-new-york-city.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068522806/thumb/stock-footage-fifth-avenue-time-lapse-at-sunset-with-dark-silhouette-of-skyscrapers-manhattan-new-york-city.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068534668" rel="nofollow" class="preview_video" target="_blank" title="Manhattan at Sunrise and Fifth Avenue Skyline, Time Lapse with Colorful Clouds, New York City, USA">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068534668/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068534668/thumb/stock-footage-manhattan-at-sunrise-and-fifth-avenue-skyline-time-lapse-with-colorful-clouds-new-york-city-usa.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068534668/thumb/stock-footage-manhattan-at-sunrise-and-fifth-avenue-skyline-time-lapse-with-colorful-clouds-new-york-city-usa.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068534068" rel="nofollow" class="preview_video" target="_blank" title="Broadway street in Manhattan, Time Lapse at Sunset with Red Sun , Fiery Sky and Dark Silhouette of Skyscrapers, New York City ">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068534068/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068534068/thumb/stock-footage-broadway-street-in-manhattan-time-lapse-at-sunset-with-red-sun-fiery-sky-and-dark-silhouette-of.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068534068/thumb/stock-footage-broadway-street-in-manhattan-time-lapse-at-sunset-with-red-sun-fiery-sky-and-dark-silhouette-of.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1068535148" rel="nofollow" class="preview_video" target="_blank" title="Madison Square and Broadway Street, Time Lapse by Night with Full Moon, Manhattan, New York City">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1068535148/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1068535148/thumb/stock-footage-madison-square-and-broadway-street-time-lapse-by-night-with-full-moon-manhattan-new-york-city.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1068535148/thumb/stock-footage-madison-square-and-broadway-street-time-lapse-by-night-with-full-moon-manhattan-new-york-city.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<script type="text/javascript">
+                                        $(document).ready(function() {
+
+										// $('#dt3').hide();
+
+          //                                   $('#dt3').shutterstock({
+          //                                       type: 'videos',
+          //                                       num: '4',
+          //                                       shuffle: false,
+          //                                       query: '',
+          //                                       subid1: 'imgdetail',
+          //                                       subid2: 'sidebarB5',
+          //                                       subid3: 'mosaicapi',
+          //                                       sharedid: 'video-detail-sidebar',
+          //                                       //typephoto: ''
+          //                                   });
+										// setTimeout(function(){
+										// 	//$('#dt1.flex-shutterstock').flexImages({rowHeight: 145, truncate: 1, maxRows: 4});
+										// 	//$('#dt1').fadeIn('fast');
+										// },2000); 
+
+										// $('#dt3').bind("DOMSubtreeModified",function(){
+  								// 			$('#dt3.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 2});
+										// 	$('#dt3').fadeIn('fast');
+										// });
+                                        });
+
+                                    </script>
+</div>
+<div style="margin: 0px 5px 30px; font-size: 11px; color: #afafaf;">
+<a class="fright" href="http://shutterstock.7eer.net/c/13749/42119/1305?subId1=imgdetail&amp;subId2=sidebar-B5&amp;subId3=coupon&amp;sharedid=video-detail-coupon&amp;u=http%3A%2F%2Fwww.shutterstock.com" target="_blank" rel="nofollow"><img height="11px" src="https://www.stockvault.net/templates/default/images/shutterstock_logo2.png" alt="Shutterstock.com" /></a>Similar Sponsored Footage
+</div>
+</div>
+</div>
+</div>
+<div class="section col_full nomargin" style="padding: 30px 0!important; background-color: #f4f4f4; border-top: 1px solid #e9e9e9;">
+<div class="container-fullwidth nobottommargin clearfix">
+<div class="col-md-6 nopadding nomargin"><h4 class="nomargin" style="padding:0 5px;">Similar Images</h4></div>
+<div class="col-md-6 nopadding nomargin" data-class-lg="tright" data-class-xxs="tleft" data-class-md="tright">
+<h5 class="t500" style="padding:0 8px 0 5px;">From <a href="/collection/104/urban-scenes"> Urban Scenes</a> Collection</h5>
+</div>
+<div class="clear"></div>
+<div id="flexgridSimilar" class="flex-images">
+<div class="item" data-w="4416" data-h="2944">
+<a class="preview" href="/photo/185226/above" title="Above" photoId="185226" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/27/185226/thumb16.jpg" alt="Above - Free Stock Photo" title="Above - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="2415" data-h="1610">
+<a class="preview" href="/photo/233090/people-at-subway-station-blurred-looks" title="People at Subway Station - Blurred Looks" photoId="233090" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2017/03/14/233090/thumb16.jpg" alt="People at Subway Station - Blurred Looks - Free Stock Photo" title="People at Subway Station - Blurred Looks - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3264" data-h="4896">
+<a class="preview" href="/photo/189545/skyscrapers" title="Skyscrapers" photoId="189545" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/22/189545/thumb16.jpg" alt="Skyscrapers - Free Stock Photo" title="Skyscrapers - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2001">
+<a class="preview" href="/photo/163635/kazan-cathedral" title="Kazan Cathedral" photoId="163635" isFeatured="0" approvedBy="87395">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2014/10/22/163635/thumb16.jpg" alt="Kazan Cathedral - Free Stock Photo" title="Kazan Cathedral - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="7083" data-h="3984">
+<a class="preview" href="/photo/192360/tall-building" title="Tall Building" photoId="192360" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/04/03/192360/thumb16.jpg" alt="Tall Building - Free Stock Photo" title="Tall Building - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="4421" data-h="2928">
+<a class="preview" href="/photo/188137/skyscraper" title="Skyscraper" photoId="188137" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/15/188137/thumb16.jpg" alt="Skyscraper - Free Stock Photo" title="Skyscraper - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="2200" data-h="1706">
+<a class="preview" href="/photo/209562/urban-city" title="Urban City" photoId="209562" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/09/12/209562/thumb16.jpg" alt="Urban City - Free Stock Photo" title="Urban City - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="5616" data-h="3744">
+<a class="preview" href="/photo/187996/city" title="City" photoId="187996" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/15/187996/thumb16.jpg" alt="City - Free Stock Photo" title="City - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1803" data-h="1352">
+<a class="preview" href="/photo/102271/at-night" title="At night" photoId="102271" isFeatured="0" approvedBy="1">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2007/03/01/102271/thumb16.jpg" alt="At night - Free Stock Photo" title="At night - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="4608" data-h="3072">
+<a class="preview" href="/photo/187919/construction" title="Construction" photoId="187919" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/15/187919/thumb16.jpg" alt="Construction - Free Stock Photo" title="Construction - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3264" data-h="2448">
+<a class="preview" href="/photo/185257/high" title="High" photoId="185257" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/28/185257/thumb16.jpg" alt="High - Free Stock Photo" title="High - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1500" data-h="1000">
+<a class="preview" href="/photo/174970/motorcyclists" title="motorcyclists" photoId="174970" isFeatured="0" approvedBy="87395">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2015/07/22/174970/thumb16.jpg" alt="motorcyclists - Free Stock Photo" title="motorcyclists - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="4000" data-h="2966">
+<a class="preview" href="/photo/186963/twins" title="Twins" photoId="186963" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/11/186963/thumb16.jpg" alt="Twins - Free Stock Photo" title="Twins - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="2724" data-h="2448">
+<a class="preview" href="/photo/184936/skyscraper-landscape" title="Skyscraper Landscape" photoId="184936" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/24/184936/thumb16.jpg" alt="Skyscraper Landscape - Free Stock Photo" title="Skyscraper Landscape - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="5677" data-h="3785">
+<a class="preview" href="/photo/275031/downtown-toronto-canada" title="Downtown Toronto, Canada" photoId="275031" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/04/21/275031/thumb16.jpg" alt="Downtown Toronto, Canada - Free Stock Photo" title="Downtown Toronto, Canada - Free Stock Photo"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="section col_full nomargin" style="padding:30px 0!important;background-color:#fbfbfb;border-top:1px solid #e9e9e9;">
+<div class="container-fullwidth clearfix">
+<div class="nobottommargin">
+<h4 style="margin:0 0 15px 5px!important;">Popular Photos From <a href="/user/profile/2106">GIACOMO</a></h4>
+<div id="flexgridPhotogr" class="flex-images">
+<div class="item" data-w="1600" data-h="985">
+<a class="preview" href="/photo/103899/times-square-new-york" title="Times square, New York" photoId="103899" isFeatured="0" approvedBy="1">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2007/11/28/103899/thumb16.jpg" alt="Times square, New York - Free Stock Photo" title="Times square, New York - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1531" data-h="1200">
+<a class="preview" href="/photo/103900/times-square-fifth-avenue-caigo-at-ven" title="times square, fifth avenue, caigo at ven" photoId="103900" isFeatured="0" approvedBy="1">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2007/11/28/103900/thumb16.jpg" alt="times square, fifth avenue, caigo at ven - Free Stock Photo" title="times square, fifth avenue, caigo at ven - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1600" data-h="995">
+<a class="preview" href="/photo/103901/caigo-at-venice" title="Caigo at venice" photoId="103901" isFeatured="0" approvedBy="1">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2007/11/28/103901/thumb16.jpg" alt="Caigo at venice - Free Stock Photo" title="Caigo at venice - Free Stock Photo"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="modal fade collection-modal" id="addcollection_modal" tabindex="-1" role="dialog" aria-labelledby="addcollection_modalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<div class="collection-add-btn">
+<a href="javascript:;" class="btn-collection button button-mini button-blue button-rounded add_collection" title="Add New Collection" id="add_new_cl">
+Create New
+</a>
+</div>
+<h4 class="modal-title" id="addcollection_modalLabel">Add to Collection</h4>
+</div>
+<div class="modal-body">
+<div class="alert alert-danger" id="alertdiv" style="display: none;"></div>
+<div class="active-box row">
+<div class="search-box col-lg-12">
+<input class="required sm-form-control input-block-level input_box" id="search_collection" autocomplete="off" type="text" placeholder="Enter keyword...">
+</div>
+<div class="col-md-12 col-xs-12 text-center no-found" style="display: none;">Collection not found.</div>
+<div class="clearfix"></div>
+<ul class="pagination pagination-lg modal-pagination">
+</ul>
+
+</div>
+<div id="add_cl_div" style="display: none;">
+<form id="add_cl_form" method="post" action="javascript:;">
+<div class="col_full">
+<label for="cl_tags">Name <small>*</small></label>
+<input type="text" class="required form-control" id="cl_name" name="name" rows="6" cols="30" required>
+</div>
+<div class="col_full">
+<label for="cl_tags">Tags <small>*</small> (comma seperated)</label>
+<input type="text" class="required form-control" id="cl_tags" name="tags" rows="6" cols="30" required>
+</div>
+<div class="col_full">
+<label for="cl_description">Description <small>*</small></label>
+<textarea class="required form-control" id="cl_description" name="description" rows="6" cols="30" required></textarea>
+</div>
+<div class="col_full">
+<input type="checkbox" name="private"> <span>Make private</span>
+</div>
+<div class="col_full nobottommargin">
+<button type="button" class="back-btn button button-3d button-green">Back</button>
+<button class="button button-3d nomargin" type="submit" id name>Create Collection</button>
+</div>
+</form>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<form method="post" action="/photo/download/" id="downloadimage" style="margin-bottom: 0px!important;">
+<input type="hidden" name="id" value="103899">
+</form>
+
+
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-body">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title center" id="myModalLabel">Support us with a donation</h4>
+</div>
+<div class="modal-body center">
+<h4>Do you appreciate the free stock photos we provide?</h4>
+<p>If you do, why not support us by donating a small amount via Paypal or Moneybookers<br/><br/></p>
+<div class="line bottommargin-sm topmargin-sm"></div>
+<div class="col_full center bottommargin-sm">
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin-bottom: 15px;" target="_blank">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="paypal@stockvault.net">
+<input type="hidden" name="lc" value="EN">
+<input type="hidden" name="item_name" value="Stockvault.net Donation">
+
+
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="rm" value="1">
+<input type="hidden" name="return" value="//stockvault.net/thanks-for-donating">
+<input type="hidden" name="cancel_return" value="//stockvault.net">
+<input type="hidden" name="bn" value="PP-DonationsBF:paypal_button.png:NonHosted">
+<input type="image" src="//stockvault.net/templates/default/images/revshare_paypal.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+Click the logo above to donate any amount via Paypal.com
+</div>
+<div class="line bottommargin-sm topmargin-sm"></div>
+<div class="col_full center nobottommargin">
+<form action="https://www.skrill.com/app/payment.pl" method="post" style="margin-bottom: 15px;">
+<input type="hidden" name="pay_to_email" value="info@stockvault.net">
+<input type="hidden" name="return_url" value="//stockvault.net/thanks-for-donating">
+<input type="hidden" name="language" value="EN">
+<input type="hidden" name="currency" value="USD">
+<input type="hidden" name="amount" value="5.00">
+<input type="hidden" name="detail1_description" value="Stockvault Donation">
+<input type="hidden" name="detail1_text" value="Donation to help support stockvault">
+<input type="image" src="//stockvault.net/templates/default/images/revshare_skrill.jpg" name="submit" alt="Moneybookers - The safer, easier way to pay online!">
+</form>
+Click the logo above to donate $5 via Skrill.com
+</div>
+</div>
+<div class="clear"></div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<footer id="footer" class="dark noborder">
+<a href="https://shutterstock.7eer.net/c/2029636/1615122/1305?subId1=stockvault-full-width-banner&sharedid=StockVault-ImageFTTest" target="_blank" rel="nofollow">
+<div class="promo promo-light promo-full hidden-xs">
+<div class="container">
+<img src="https://www.stockvault.net/templates/default/images/backgrounds/ss-wide-banner-1200x130-style-1.jpg" alt="Shutterstock Free Trial" style="width: 100%; height: auto;">
+</div>
+</div>
+</a>
+<div class="container">
+
+<div class="footer-widgets-wrap clearfix">
+<div class="col-md-6">
+<div class="widget clearfix">
+<div class="clear-bottommargin-sm">
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Free Photos:</span>
+142.483 </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Downloads:</span>
+27.7 M </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Members:</span>
+105.888 </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+</div>
+</div>
+<div class="line" style="margin: 30px 0;"></div>
+<div class="visible-sm topmargin-sm"></div>
+<div class="widget clearfix">
+<div class="visible-sm topmargin-sm"></div>
+<div class="col-xs-4 clearfix">
+<a href="https://www.facebook.com/stockvault/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+<i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://www.facebook.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Facebook</small></a>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-xs-4 clearfix">
+<a href="https://www.twitter.com/stockvault/" class="social-icon si-dark si-colored si-twitter nobottommargin" style="margin-right: 10px;">
+<i class="icon-twitter"></i>
+<i class="icon-twitter"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://www.twitter.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Twitter</small></a>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-xs-4 clearfix">
+<a href="https://pinterest.com/stockvault/" class="social-icon si-dark si-colored si-pinterest nobottommargin" style="margin-right: 10px;">
+<i class="icon-pinterest"></i>
+<i class="icon-pinterest"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://pinterest.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Pinterest</small></a>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="visible-sm visible-xs line" style="margin: 30px 0;"></div>
+<div class="widget clearfix notopmargin">
+<div class="row">
+<div class="visible-sm topmargin-sm"></div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/about">About us</a></li>
+<li><a href="//www.stockvault.net/advertise">Advertise</a></li>
+<li><a href="//www.stockvault.net/resources">Resources</a></li>
+<li><a href="//www.stockvault.net/terms-of-use">Terms of Use</a></li>
+<li><a href="//www.stockvault.net/faq">FAQs</a></li>
+</ul>
+</div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/contact">Contact</a></li>
+<li><a href="//www.stockvault.net/photographer-appreciation-program">Revenue Sharing</a></li>
+<li><a href="//www.stockvault.net/tutorials">Tutorials</a></li>
+<li><a href="//www.stockvault.net/c/textures">Wallpapers & Backgrounds</a></li>
+<li><a href="//www.stockvault.net/shutterstock-coupon-codes">Shutterstock Coupons</a></li>
+</ul>
+</div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/free-photos">Free images</a></li>
+<li><a href="https://www.vectorportal.com/" target="_blank">Free vectors</a></li>
+<li><a href="https://dareful.com/" target="_blank">Free video footage</a></li>
+<li><a href="https://authentic.co/" target="_blank">Authentic Stock</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="copyrights">
+<div class="container center clearfix">
+<div class="col-md-9 tleft">
+Copyright &copy; 2004-2023 Stockvault.net and it's Respected Contributors - All Rights Reserved - <a href="//www.stockvault.net/privacy-policy" style="color: #fff;">Privacy Policy</a>
+</div>
+<div class="col-md-3 tright">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+							function googleTranslateElementInit() {
+							  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+							}
+						</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+
+<script src="/templates/default/js/functions.js"></script>
+<script src="/templates/default/js/plugins.js"></script>
+<script src="/templates/default/js/jquery.flex-images.min.js"></script>
+<script src="/templates/default/js/custom.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+	    $('#flexgrid').flexImages({rowHeight: 300});
+		$('#flexgridPhotogr').flexImages({rowHeight: 200, truncate: 1, maxRows: 3});
+		$('#flexgridSimilar').flexImages({rowHeight: 200, truncate: 1, maxRows: 2});
+		$('#flexgridindex').flexImages({rowHeight: 300, truncate: 1, maxRows: 7});
+		$('#flexgridcollection').flexImages({rowHeight: 340});
+    </script>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-159691-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+<script type="text/javascript">
+    <!--
+        if (window.self != window.top && document.referrer.indexOf('freepik') > 0 ) {
+        top.location.replace(window.location.pathname);
+    }
+    //-->
+    </script>
+
+<script type="text/javascript">
+	$(function(){
+
+		$('#add_cl_form').find('.nobottommargin').before( '<div class="g-recaptcha" data-sitekey="6LeQPB0TAAAAANXK8f9XXwPvauGAYcS9N511Tu86"></div><br>' );
+
+		$('.login').click(function(e){
+			e.preventDefault();
+			var rr =  '//'+window.location.host + window.location.pathname + window.location.search;
+			rr = encodeURIComponent(rr);
+			var pathArray = window.location.pathname.split( '/' );
+			if(pathArray[1]!='login')
+			{
+				var returnurl = '?returnurl='+rr;
+			}else{
+				var returnurl = '';
+			}
+			window.location.href=$(this).attr('href')+returnurl;
+		});
+
+		$('#page-menu-wrap').find('form').attr('id','smpl_search');
+
+		$('#smpl_search').one('submit', function(e) {
+		    e.preventDefault();
+		    var elm = $(this).find('input[name="query"]');
+		    var str = elm.val();
+			var tt = str.replace(/[^a-z0-9\s]/gi, ' ').replace(/[_\s]/g, ' ');
+			tt = tt.split(' ');
+			tt = tt.filter(function(v){return v!==''});
+			tt = tt.join(' ');	
+			elm.val(tt);
+		    // and when you done:
+		    $(this).submit();
+		});
+
+		$('#searchform').one('submit', function(e) {
+		    e.preventDefault();
+		    var str = $('#search_input').val();
+			var tt = str.replace(/[^a-z0-9\s]/gi, ' ').replace(/[_\s]/g, ' ');
+			tt = tt.split(' ');
+			tt = tt.filter(function(v){return v!==''});
+			tt = tt.join(' ');	
+			$('#search_input').val(tt);
+		    // and when you done:
+		    $(this).submit();
+		});
+	});
+</script>
+
+<script>
+  (function(){
+    if(typeof _bsa !== 'undefined' && _bsa) {
+	  _bsa.init('default', 'CEAI65QM', 'placement:stockvaultnet', { target: "#default_stockvaultnet", align: "horizontal" });
+    }
+  })();
+</script>
+</body>
+</html><script type="text/javascript">
+
+	$('#dt3').flexImages({rowHeight: 140, truncate: 1,maxRows: 2});
+	$('#dt3').fadeIn('fast');
+	// flexImages({rowHeight: 140, truncate: 1, maxRows: 2})
+
+	var figure = $(".preview_video").hover( hoverVideo, hideVideo );
+
+	function hoverVideo(e) {  
+	    $('video', this).get(0).play(); 
+	}
+
+	function hideVideo(e) {
+	    $('video', this).get(0).pause(); 
+	}
+
+	$('#dt1.flex-shutterstock').flexImages({rowHeight: 150, truncate: 1, maxRows: 3});
+	$('#dt1').fadeIn('fast');
+	$('#dt2.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 3});
+	$('#dt2').fadeIn('fast');
+	$(window).trigger('resize');
+
+
+	var tmpar = [];
+	function searchcolletion(start,val,perpage)
+	{
+	  var tt = [];
+	  $('.pg').html('');
+
+	  var searchField = val;
+	  var expression = new RegExp(searchField, "i");
+
+	  $.when( 
+	    $.each(tmpar, function(key, value){
+	      if (value.search(expression) != -1)
+	      {
+	        tt.push(value);
+	      }
+	    }) 
+	  ).done(function() {
+	  	$('.srch').css('display','none');
+	  	$('.no-found').css('display','none');
+	  	$('.modal-pagination').html('');
+	    if(tt.length>=1)
+	    {
+	      var pgcount = ((tt.length - 1) / perpage) + 1;
+	      var cal = start * perpage;
+	      var strt = cal - perpage;
+
+	      if(pgcount>=1)
+	      {
+	        for(var p=1;p<=pgcount;p++)
+	        {
+	        	if(start==p)
+	        	{
+	        		$('.modal-pagination').append('<li class="active"><a href="javascript:;"  data-page="'+p+'">'+p+'</a></li>');
+	        	}else{
+	          		$('.modal-pagination').append('<li><a href="javascript:;" class="pagination_click" data-page="'+p+'">'+p+'</a></li>');
+	        	}
+	        }
+	        var lmtpage = strt + perpage;
+
+	        if(tt.length <= lmtpage)
+	        {
+	          lmtpage = tt.length;
+	        }
+
+	        for(var t= strt;t<lmtpage;t++)
+	        {
+	        	$(".srch:contains("+tt[t]+")").css("display", "block");
+	        }
+	      }
+	    }else{
+	    	$('.srch').css('display','none');
+	    	$('.no-found').css('display','block');
+	  		$('.modal-pagination').html('');
+	    }
+	  });
+	}
+
+	searchcolletion(1,'',12);
+
+	$(function(){	
+
+		$(document).on('click','.pagination_click',function(e){
+			e.preventDefault();
+			var srval = $('#search_collection').val();
+			var srpg = $(this).attr('data-page');
+			searchcolletion(srpg,srval,12);
+		});	
+
+		$('#search_collection').keyup(function(){
+		    var srval = $(this).val();
+		 	searchcolletion(1,srval,12);
+		 });
+
+		$('#add_new_cl').click(function(){
+			$('.active-box').slideUp();
+			$('#add_cl_div').slideDown();
+			$('.collection-add-btn').css('display','none');
+		});
+		$('.back-btn').click(function(){
+			$('#add_cl_div').slideUp();
+			$('.active-box').slideDown();
+			$('.collection-add-btn').css('display','block');
+		});
+		$('.collection-list').click( function(){
+			$(this).addClass('active');
+		});
+		$('#add_cl_form').submit(function(){
+			$('#alertdiv').css('display','none');
+			$.ajax({
+				type:'post',
+				url:'/add-new-collection',
+				data:$(this).serialize()+'&p='+'103899',
+				success:function(data){
+					$('#add_cl_form')[0].reset();
+					$('#add_cl_div').css('display','none');
+					var obj=JSON.parse(data);
+					if(obj.success=='true')
+					{
+						window.location.reload();
+					}else{
+						$('#alertdiv').html('something went wrong..');
+						$('#alertdiv').css('display','block');
+					}
+				}
+			});
+			// $('form button[type="submit"]').prop("disabled", true);
+		});
+		$(document).on('click','.add-to-cl',function(){
+			$('#alertdiv').css('display','none');
+			var cl_value=$(this).attr('data-id');
+			if(cl_value!='')
+			{
+				$.ajax({
+					type:'post',
+					url:'/add-image-collection',
+					data:'cl='+cl_value+'&p='+'103899',
+					success:function(data){
+						// $('#add_cl_form')[0].reset();
+						// $('#add_cl_div').css('display','none');
+						var obj=JSON.parse(data);
+						if(obj.success=='true')
+						{
+							window.location.reload();
+						}else{
+							$('#alertdiv').html('This image is already added in this collection.');
+							$('#alertdiv').css('display','block');
+						}
+					}
+				});
+			}
+		});
+
+		$(document).on('click','.delete-from-cl',function(){
+			$('#alertdiv').css('display','none');
+			var cl_value=$(this).attr('data-id');
+			if(cl_value!='')
+			{
+				$.ajax({
+					type:'post',
+					url:'/remove-image-collection',
+					data:'cl='+cl_value+'&p='+'103899',
+					success:function(data){
+						// $('#add_cl_form')[0].reset();
+						// $('#add_cl_div').css('display','none');
+						var obj=JSON.parse(data);
+						if(obj.success=='true')
+						{
+							window.location.reload();
+						}else{
+							$('#alertdiv').html('something went wrong..');
+							$('#alertdiv').css('display','block');
+						}
+					}
+				});
+			}
+		});
+	});
+	$('#flexgridPhotogr1').flexImages({rowHeight: 180, truncate: 1, maxRows: 3});
+
+	$('.followuser').click(function(){
+
+		var fbtn = $(this);
+		var id = fbtn.attr('data-id');
+		if(id!='' && id!=0)
+		{
+			$.ajax({
+				type:'post',
+				url:'/followuser',
+				data:'id='+id,
+				success:function(data){
+					var obj = JSON.parse(data);
+					if(obj.success=='true')
+					{
+						fbtn.css('display','none');
+						$('.unfollowuser').css('display','inline-block');
+					}
+					
+				}
+			});
+		}
+	});
+
+	$('.unfollowuser').click(function(){
+
+		var fbtn = $(this);
+		var id = fbtn.attr('data-id');
+		if(id!='' && id!=0)
+		{
+			$.ajax({
+				type:'post',
+				url:'/unfollowuser',
+				data:'id='+id,
+				success:function(data){
+					var obj = JSON.parse(data);
+					if(obj.success=='true')
+					{
+						fbtn.css('display','none');
+						$('.followuser').css('display','inline-block');
+					}
+				}
+			});
+		}
+	});
+
+	// for download image
+	$('.buttondownload').click(function(){
+		$('#downloadimage').submit();
+	});
+</script>
