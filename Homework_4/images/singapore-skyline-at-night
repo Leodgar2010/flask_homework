@@ -1,0 +1,1714 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="SHORTCUT ICON" HREF="https://www.stockvault.net/favicon.ico">
+<link rel="apple-touch-icon" sizes="120x120" href="/templates/default/images/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="/templates/default/images/apple-touch-icon-152x152.png" />
+<link rel="search" type="application/opensearchdescription+xml" title="Stockvault" href="https://www.stockvault.net/blog/opensearch.xml">
+<meta name="description" content="Singapore skyline. Singapore consider as the main business hub in Southeast Asia. - Creative Commons - CC0 License - No Attribution Required">
+<meta property="og:image" content="https://www.stockvault.net/data/2020/11/01/280373/preview16.jpg">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Free Stock Photo of Singapore Skyline at Night">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@stockvault">
+<meta name="twitter:title" content="Free Stock Photo of Singapore Skyline at Night">
+<meta name="twitter:image" content="https://www.stockvault.net/data/2020/11/01/280373/preview16.jpg">
+<meta name="robots" content="max-image-preview:large">
+<link rel="canonical" href="https://www.stockvault.net/photo/280373/singapore-skyline-at-night?stream=True">
+<title>Singapore Skyline at Night - Free Stock Photo by eranda on Stockvault.net</title>
+<script type="application/ld+json">
+		{
+			"@context": "http://schema.org/",
+			"@type": "ImageObject",
+			"author": "eranda",
+			"contentUrl": "https://www.stockvault.net/data/2020/11/01/280373/preview16.jpg",
+			"name": "Free photo of Singapore Skyline at Night",
+			"license": "https://creativecommons.org/publicdomain/zero/1.0/",
+			"acquireLicensePage": "https://www.stockvault.net/photo/280373/singapore-skyline-at-night?stream=True",
+			"isAccessibleForFree": true,
+			"representativeOfPage": true
+		}
+	</script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5adc74b8bc190a0013e2ac28&product=custom-share-buttons" async="async"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700,600|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/allstyles.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/custom.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/style_mini2.css" type="text/css" />
+<link rel="stylesheet" href="/templates/default/css/responsive_minified.css" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<script>
+    (function(m,a,i,l,e,r){ m['MailerLiteObject']=e;function f(){
+    var c={ a:arguments,q:[]};var r=this.push(c);return "number"!=typeof r?r:f.bind(c.q);}
+    f.q=f.q||[];m[e]=m[e]||f.bind(f.q);m[e].q=m[e].q||f.q;r=a.createElement(i);
+    var _=a.getElementsByTagName(i)[0];r.async=1;r.src=l+'?v'+(~~(new Date().getTime()/1000000));
+    _.parentNode.insertBefore(r,_);})(window, document, 'script', 'https://static.mailerlite.com/js/universal.js', 'ml');
+    
+    var ml_account = ml('accounts', '966686', 'o1t7m5w8r4', 'load');
+    </script>
+
+
+<script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+        (function(){
+            var bsa_optimize=document.createElement('script');
+            bsa_optimize.type='text/javascript';
+            bsa_optimize.async=true;
+            bsa_optimize.src='https://cdn4.buysellads.net/pub/stockvault.js?'+(new Date()-new Date()%600000);
+            (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa_optimize);
+        })();
+    </script>
+</head>
+<body class="stretched sticky-responsive-menu no-transition">
+
+<div id="default_stockvaultnet"></div>
+
+<div id="wrapper" class="clearfix">
+
+<script type="text/javascript">
+	$(document).ready(function(){ // Advanced search options
+		
+		$.fn.select_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $("option:selected", $(this)).attr('value');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};
+
+		$.fn.input_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $(this).attr('value');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};
+
+		$.fn.id_to_input = function(opt, formselector) {
+			var f = $(this);
+			var val = $(this).attr('id');
+			var sf = $(formselector);
+			var inp = $("input[name='"+opt+"']", sf);
+			if (val == '') {
+				inp.remove();
+				return false;
+			}
+			if (!inp.length) {
+				sf.append('<input type="hidden" name="'+opt+'" value="'+val+'">');
+			} else {
+				inp.attr('value', val);
+			}			
+		};		
+
+		$("#sc-block > .sc > a").click(function() {
+			
+			if (!$(this).hasClass('active')) {
+				$(this).id_to_input('co', '#searchform > .box');
+				$("#sc-block > .sc > a.active").removeClass('active');
+				$(this).addClass('active');
+			} else {
+				$(this).removeClass('active');
+				$("#searchform input[name='co']").remove();
+			}
+		});
+		
+		$("#as-date").change(function() {
+			$(this).select_to_input('dt', '#searchform > .box');
+		});
+		$("#as-shape").change(function() {
+			$(this).select_to_input('or', '#searchform > .box');
+		});
+		
+		$("#as-category").change(function() {
+			$(this).select_to_input('ci', '#searchform > .box');		
+		});
+		$("#as-photographer").change(function() {
+			$(this).input_to_input('pg', '#searchform > .box');		
+		});		
+		
+	});
+</script>
+<script>
+        $(document).ready(function() {
+            $('#searchform').submit(function(e) {
+                  // e.preventDefault();
+         var searchString = $('input.input_box', this).val().replace(/ /g, '+')
+			$(this).attr('action', '/free-photos/' + searchString)
+             //window.location.href = '/free-photos/' + searchString;
+			//e.preventDefault()
+            });
+         });
+</script>
+<div class="body-overlay"></div>
+<div id="side-panel">
+<div id="side-panel-trigger-close" class="side-panel-trigger"><a href="#"><i class="icon-line-cross"></i></a></div>
+<div class="side-panel-wrap">
+
+<div class="widget quick-contact-widget clearfix box">
+<h4>Advanced Search</h4>
+<form id="searchform" method="GET" action="/search/" class="quick-contact-form nobottommargin">
+<div class="box">
+<label>Keyword</label>
+<input id="search_input" mname="query" class="required sm-form-control input-block-level input_box empty" value type="text" name placeholder="Enter keyword..." />
+</div>
+<label>By photographer</label>
+<input id="as-photographer" name="pg" type="text" value class="sm-form-control input-block-level input_box" placeholder="Enter photographer name..." />
+<label>Category</label>
+<select id="as-category" name="ci" class="sm-form-control">
+<option value>All</option>
+<option value="39">3D Renders</option>
+<option value="1">Animals</option>
+<option value="5">Constructions</option>
+<option value="61">Graphics</option>
+<option value="53">Industrial</option>
+<option value="7">Nature</option>
+<option value="14">Objects</option>
+<option value="22">People</option>
+<option value="67">Seasonal</option>
+<option value="27">Textures</option>
+<option value="21">Transportation</option>
+</select>
+<label>Shape</label>
+<select id="as-shape" name="or" class="sm-form-control">
+<option value>Any</option>
+<option value="p">Portrait</option>
+<option value="l">Landscape</option>
+<option value="s">Square</option></select>
+<label>Date</label>
+<select id="as-date" name="dt" class="sm-form-control">
+<option value>All time</option>
+<option value="1d">Last day</option>
+<option value="1w">Last week</option>
+<option value="1m">Last month</option>
+<option value="1y">Last year</option></select>
+<label>License</label>
+<select class="sm-form-control" name="li">
+<option value>All License</option>
+<option value="1">Non-Commercial</option>
+<option value="2">Commercial</option>
+<option value="3">Creative Commons - CC0</option>
+</select>
+<label>Color</label>
+<div id="sc-block">
+<div class="sc" name="co" id="swatch0"><a title="Red" style="background-color: #CC0000" href="#" id="CC0000"></a></div>
+<div class="sc" name="co" id="swatch1"><a title="Orange" style="background-color: #FB940B;" href="#" id="FB940B"></a></div>
+<div class="sc" name="co" id="swatch2"><a title="Yellow" style="background-color: #FFFF00;" href="#" id="FFFF00"></a></div>
+<div class="sc" name="co" id="swatch3"><a title="Green" style="background-color: #00CC00;" href="#" id="00CC00"></a></div>
+<div class="sc" name="co" id="swatch4"><a title="Teal" style="background-color: #03C0C6;" href="#" id="03C0C6"></a></div>
+<div class="sc" name="co" id="swatch5"><a title="Blue" style="background-color: #0000FF;" href="#" id="0000FF"></a></div>
+<div class="sc" name="co" id="swatch6"><a title="Purple" style="background-color: #762CA7;" href="#" id="762CA7"></a></div>
+<div class="sc" name="co" id="swatch7"><a title="Pink" style="background-color: #FF98BF;" href="#" id="FF98BF"></a></div>
+<div class="sc" name="co" id="swatch8"><a title="White" style="background-color: #FFFFFF;" href="#" id="FFFFFF"></a></div>
+<div class="sc" name="co" id="swatch9"><a title="Gray" style="background-color: #999999;" href="#" id="999999"></a></div>
+<div class="sc" name="co" id="swatch10"><a title="Black" style="background-color: #000000;" href="#" id="000000"></a></div>
+<div class="sc" name="co" id="swatch11"><a title="Brown" style="background-color: #885418;" href="#" id="885418"></a></div>
+</div>
+<div class="clear"></div>
+<input class="button button-3d button-black topmargin-sm noleftmargin" name value="Search" type="submit" />
+</form>
+</div>
+
+</div>
+</div>
+
+<header id="header" class="dark full-header">
+<div id="header-wrap">
+<div class="container clearfix">
+<div id="primary-menu-trigger"><i class="icon-reorder"></i></div>
+
+<div id="logo">
+<a href="//www.stockvault.net" class="standard-logo" data-dark-logo="/templates/default/images/logo-dark.png"><img src="/templates/default/images/logo.png" alt="Stockvault.net - Free Stock Photos"></a>
+<a href="//www.stockvault.net" class="retina-logo" data-dark-logo="/templates/default/images/logo-dark@2x.png"><img src="/templates/default/images/logo@2x.png" alt="Stockvault.net - Free Stock Photos"></a>
+</div>
+
+<nav id="primary-menu">
+<ul>
+<li><a href="//www.stockvault.net/"><div>Photos</div></a>
+<ul>
+<li><a href="//www.stockvault.net/latest-photos/"><div>Latest Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-popular-photos/"><div>Most Popular Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-downloaded-photos/"><div>Most Downloaded Photos</div></a></li>
+<li><a href="//www.stockvault.net/most-loved-photos/"><div>Most Loved Photos</div></a></li>
+<li><a href="//www.stockvault.net/featured-photos/"><div>Featured Photos</div></a></li>
+<li><a href="//www.stockvault.net/popular-keywords/"><div>Popular Keywords</div></a></li>
+</ul>
+</li>
+<li><a href="//www.stockvault.net/collections/"><div>Collections</div></a></li>
+<li class="mega-menu cat"><a href="#"><div>Categories</div></a>
+<div class="mega-menu-content style-2 clearfix">
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/animals"><div>Animals</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/animals/birds"><div>Birds</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/bones"><div>Bones</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/cats-and-dogs"><div>Cats and Dogs</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/fish"><div>Fish</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/insects"><div>Insects</div></a></li>
+<li><a href="//www.stockvault.net/c/animals/reptiles"><div>Reptiles</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/transportation"><div>Transportation</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/transportation/airplanes"><div>Airplanes</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/automobile"><div>Automobile</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/bikes"><div>Bikes</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/boats"><div>Boats</div></a></li>
+<li><a href="//www.stockvault.net/c/transportation/trains"><div>Trains</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/graphics"><div>Graphics</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/graphics/clip-art"><div>Clip Art</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/logo-templates"><div>Logo Templates</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/photoshop-brushes"><div>Photoshop Brushes</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/vector"><div>Vector</div></a></li>
+<li><a href="//www.stockvault.net/c/graphics/web-templates"><div>Web Templates</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/constructions"><div>Constructions</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/constructions/abandoned"><div>Abandoned</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/bridges"><div>Bridges</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/castle"><div>Castle</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/church-and-cemetery"><div>Church &amp; Cemetery</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/glass-and-windows"><div>Glass &amp; Windows</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/office-and-workplace"><div>Office &amp; Workspace</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/roads-and-streets"><div>Roads &amp; Streets</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/skyscrapers"><div>Skyscrapers</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/stairs-and-ladders"><div>Stairs &amp; Ladders</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/tanks-and-towers"><div>Tanks &amp; Towers</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/tunnels"><div>Tunnels</div></a></li>
+<li><a href="//www.stockvault.net/c/constructions/vents-and-drains"><div>Vents &amp; Drains</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/nature"><div>Nature</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/nature/fire-fog-and-smoke"><div>Fire, Fog &amp; Smoke</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/flowers"><div>Flowers</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/ice-and-snow"><div>Ice &amp; Snow</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/landscape"><div>Landscape</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/lunar-and-space"><div>Lunar &amp; Space</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/plants-and-trees"><div>Plants &amp; Trees</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/sea-and-water"><div>Sea &amp; Water</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/sky-and-clouds"><div>Sky &amp; Clouds</div></a></li>
+<li><a href="//www.stockvault.net/c/nature/stone-and-rocks"><div>Stone &amp; Rocks</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/industrial"><div>Industrial</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/industrial/electricity"><div>Electricity</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/locks-and-chains"><div>Locks &amp; Chains</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/pipes-and-wire"><div>Pipes &amp; Wire</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/rusted"><div>Rusted</div></a></li>
+<li><a href="//www.stockvault.net/c/industrial/screws-bolts-and-wheels"><div>Screws, Bolts &amp; Wheels</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/objects"><div>Objects</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/objects/art-supplies"><div>Art Supplies</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/cosmetics"><div>Cosmetics</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/electronics"><div>Electronics</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/entertainment"><div>Entertainment</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/flags"><div>Flags</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/food-and-drink"><div>Food &amp; Drink</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/furniture"><div>Furniture</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/household-items"><div>Household Items</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/jewelry"><div>Jewelry</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/medical"><div>Medical</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/money"><div>Money</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/music"><div>Music</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/office-supplies"><div>Office Supplies</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/paper-and-books"><div>Paper &amp; Books</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/religion"><div>Religion</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/sculptures"><div>Sculptures</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/signs"><div>Signs</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/stamps"><div>Stamps</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/tools-and-weapons"><div>Tools &amp; Weapons</div></a></li>
+<li><a href="//www.stockvault.net/c/objects/toys"><div>Toys</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/people"><div>People</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/people/children"><div>Children</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-activity"><div>Human Activity</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-bones"><div>Human Bones</div></a></li>
+<li><a href="//www.stockvault.net/c/people/human-closeups"><div>Human Closeups</div></a></li>
+<li><a href="//www.stockvault.net/c/people/portraits"><div>Portraits</div></a></li>
+<li><a href="//www.stockvault.net/c/people/sports-activity"><div>Sports Activity</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/seasonal"><div>Seasonal</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/seasonal/christmas"><div>Christmas</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/easter"><div>Easter</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/fireworks"><div>Fireworks</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/halloween"><div>Halloween</div></a></li>
+<li><a href="//www.stockvault.net/c/seasonal/valentines-day"><div>Valentines Day</div></a></li>
+</ul>
+</li>
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/3d-renders"><div>3D Renders</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/3d-renders/landscapes"><div>3D Landscapes</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/3d-text"><div>3D Text</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/abstract-shapes"><div>Abstract Shapes</div></a></li>
+<li><a href="//www.stockvault.net/c/3d-renders/boxes-and-models"><div>Boxes and Models</div></a></li>
+</ul>
+</li>
+</ul>
+<ul class="mega-menu-column col-md-2">
+<li class="mega-menu-title"><a href="//www.stockvault.net/c/textures"><div>Textures</div></a>
+<ul>
+<li><a href="//www.stockvault.net/c/textures/burned-textures"><div>Burned Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/dirt-and-mud-textures"><div>Dirt &amp; Mud Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/fabric-textures"><div>Fabric Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/grunge-textures"><div>Grunge Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/light-effects"><div>Light Effects</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/metal-and-rust"><div>Metal &amp; Rust</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/misc-textures"><div>Misc Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/organic-textures"><div>Organic Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/paint-textures"><div>Paint Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/paper-textures"><div>Paper Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/plastic-textures"><div>Plastic Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/stone-and-rock-textures"><div>Stone &amp; Rock Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/water-and-liquid-textures"><div>Water &amp; Liquid Textures</div></a></li>
+<li><a href="//www.stockvault.net/c/textures/wood-textures"><div>Wood Textures</div></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li><a href="//www.stockvault.net/blog"><div>Blog</div></a></li>
+<li><a href="//www.stockvault.net/premium/photos/business" class="premium-menu"><div>Premium</div></a>
+<ul>
+<li><a href="//www.stockvault.net/premium/photos/business/"><div>Stock Photos</div></a></li>
+<li><a href="//www.stockvault.net/premium/vectors/business"><div>Stock Vectors</div></a></li>
+<li><a href="//www.stockvault.net/premium/footage/business"><div>Stock Footage</div></a></li>
+</ul>
+</li>
+<li><a href="#"><div>Info</div></a>
+<ul>
+<li><a href="//www.stockvault.net/about"><div>About us</div></a></li>
+<li><a href="//www.stockvault.net/advertise"><div>Advertise</div></a></li>
+<li><a href="//www.stockvault.net/contact"><div>Contact</div></a></li>
+<li><a href="//www.stockvault.net/terms-of-use"><div>Terms of Use</div></a></li>
+<li><a href="//www.stockvault.net/faq"><div>FAQs</div></a></li>
+<li><a href="//www.stockvault.net/photographer-appreciation-program"><div>Revenue Sharing</div></a></li>
+<li><a href="//www.stockvault.net/tutorials"><div>Tutorials</div></a></li>
+<li><a href="//www.stockvault.net/resources"><div>Resources</div></a></li>
+<li><a href="//www.stockvault.net/latest-comments"><div>Latest Comments</div></a></li>
+</ul>
+</li>
+<li class="current"><a href="#"><div>Upload a Photo</div></a>
+<ul>
+<li><a href="//www.stockvault.net/login" class="login"><div>Login</div></a></li>
+<li><a href="//www.stockvault.net/user/register"><div>Register</div></a></li>
+</ul>
+</li>
+</ul>
+
+<div id="top-cart">
+<a href="#" id="top-cart-trigger"><i class="icon-line-bell"></i></a>
+<div class="top-cart-content">
+<div class="top-cart-title clearfix">
+<h4 style="text-transform:none;float:left;">Notifications</h4>
+<div style="float: right;">
+</div>
+</div>
+<div class="top-cart-items">
+<div class="top-cart-item clearfix" style="padding-right: 20px;position: relative;">
+<div class="top-cart-item-desc" style="font-size:13px;">
+No notification.
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="top-search">
+<a href="#" title="Advanced Search" class="side-panel-trigger"><i class="icon-search3"></i><i class="icon-line-cross"></i></a>
+</div>
+</nav>
+</div>
+</div>
+</header>
+<script type="text/javascript">
+
+	$(function() {
+		$("a.like_image_button").click(function() {
+			var t = $(this);
+			$.post("/photo/like/h", { photoId: "280373", time: "2pm" },
+			function(data){
+				if (data=='1') {
+					var counter = $("#like_counter");
+					var current = parseInt(counter.text());
+					current += 1;
+					counter.text(current.toString());
+					//$("a.like_image_button").fadeOut();
+					
+				}
+				$("a.like_image_button").addClass('active');
+			});
+		});
+		$("#actions > .publish").click(function(){
+			var ap = $(this);
+			$.post("/photo/publish/h", { "photoId": '280373', "op": 1 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .unpublish").click(function(){
+			var ap = $(this);
+			$.post("/photo/publish/h", { "photoId": '280373', "op": 0 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .feature").click(function() {
+			var ap = $(this);
+			$.post("/photo/feature/h", { "photoId": '280373', "op": 1 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+		$("#actions > .unfeature").click(function(){
+			var ap = $(this);
+			$.post("/photo/feature/h", { "photoId": '280373', "op": 0 }, function(data) {
+				if (data=='1') { ap.hide(); }
+			});
+		});
+
+	});
+	
+	
+	</script>
+
+<section id="content" style="clear: both; padding-top: 30px;">
+<div class="content-wrap nopadding">
+<div class="container clearfix">
+<div class="col_three_fifth">
+<div class="nobottommargin">
+
+
+<div class="col_full portfolio-single-image bottommargin-sm">
+<div style="display:block; float:right; margin-bottom: -55px;">
+</div>
+<img src="/./data/2020/11/01/280373/preview16.jpg" alt="Free stock image of Singapore Skyline at Night created by eranda" class="single-image" />
+<div style="display: block; margin: 10px auto;">
+<span id="actions" class="actions">
+</span>
+</div>
+</div>
+<div class="center bottommargin-sm">
+<div class="center nomargin nopadding">
+
+<script async data-cfasync="false" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="pub-1869667148583237" data-ad-format="horizontal" data-full-width-responsive="true"></ins>
+<script>
+        $(document).ready(function(){(adsbygoogle = window.adsbygoogle || []).push({})})
+        </script>
+</div>
+<hr/></div>
+<h1 class="font-body" style="line-height:1.1!important; margin-bottom:5px!important;font-size:30px;">Singapore Skyline at Night</h1>
+<p style="line-height:1.2;" class="lead bottommargin-sm">Singapore skyline. Singapore consider as the main business hub in Southeast Asia.</p>
+
+<div class="tabs clearfix nobottommargin" id="tab-1">
+<ul class="tab-nav clearfix">
+<li><a href="#tabs-1"><i class="icon-align-justify2"></i><span class="hidden-xs"> Info</span></a></li>
+<li><a href="#tabs-2"><i class="icon-comments"></i><span class="hidden-xs"> Comments</span></a></li>
+</ul>
+<div class="tab-container">
+<div class="tab-content clearfix" id="tabs-1">
+
+<div class="col_full portfolio-single-content nobottommargin">
+
+<div class="nopadding" style="margin: 10px 0 15px;">Category: <a href="/c/landscape">Landscape</a>
+, <a href="/c/skyscrapers">Skyscrapers</a>
+</div>
+<div class="tagcloud nobottommargin" style="overflow-y:auto; max-height:180px;">
+<a href="/free-photos/singapore">singapore</a>
+<a href="/free-photos/skyline">skyline</a>
+<a href="/free-photos/night">night</a>
+<a href="/free-photos/tourist">tourist</a>
+<a href="/free-photos/attraction">attraction</a>
+<a href="/free-photos/symbol">symbol</a>
+<a href="/free-photos/dramatic">dramatic</a>
+<a href="/free-photos/marina">marina</a>
+<a href="/free-photos/bay">bay</a>
+<a href="/free-photos/waterfront">waterfront</a>
+<a href="/free-photos/southeast">southeast</a>
+<a href="/free-photos/fantastic">fantastic</a>
+<a href="/free-photos/background">background</a>
+<a href="/free-photos/country">country</a>
+<a href="/free-photos/location">location</a>
+<a href="/free-photos/skyscrapers">skyscrapers</a>
+<a href="/free-photos/travel">travel</a>
+<a href="/free-photos/park">park</a>
+<a href="/free-photos/dusk">dusk</a>
+<a href="/free-photos/water">water</a>
+<a href="/free-photos/metropolis">metropolis</a>
+<a href="/free-photos/high">high</a>
+<a href="/free-photos/landscape">landscape</a>
+<a href="/free-photos/asia">asia</a>
+<a href="/free-photos/business">business</a>
+<a href="/free-photos/famous">famous</a>
+<a href="/free-photos/modern">modern</a>
+<a href="/free-photos/financial">financial</a>
+<a href="/free-photos/city">city</a>
+<a href="/free-photos/district">district</a>
+<a href="/free-photos/landmark">landmark</a>
+<a href="/free-photos/cityscape">cityscape</a>
+<a href="/free-photos/view">view</a>
+<a href="/free-photos/skyscraper">skyscraper</a>
+<a href="/free-photos/evening">evening</a>
+<a href="/free-photos/urban">urban</a>
+<a href="/free-photos/asian">asian</a>
+<a href="/free-photos/architecture">architecture</a>
+<a href="/free-photos/twilight">twilight</a>
+<a href="/free-photos/scenery">scenery</a>
+<a href="/free-photos/dawn">dawn</a>
+<a href="/free-photos/buildings">buildings</a>
+<a href="/free-photos/port">port</a>
+<a href="/free-photos/museum">museum</a>
+<a href="/free-photos/coast">coast</a>
+<a href="/free-photos/morning">morning</a>
+</div>
+
+</div>
+</div>
+<div class="tab-content clearfix" id="tabs-2">
+<div id="reviews" class="clearfix">
+<ol class="commentlist clearfix">
+</ol>
+
+<a href="#" data-toggle="modal" data-target="#reviewFormModal" class="button button-3d nomargin fright">Add a Comment</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col_two_fifth col_last">
+<div id="svpre">
+<div class="widget clearfix" style="border-bottom:1px solid #eee;padding: 0px 0px 0px 0px;margin: 0px 5px 3px 5px;">
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/photos/singapore-skyline-night" title="Find Similar Premium Photos" class="nomargin center button btn-block button-small button-blue" style="display:block;"><i class="icon-line-image"></i> Photos</a>
+</div>
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/vectors/singapore-skyline-night" title="Find Similar Premium Vectors" class="nomargin center button btn-block button-small button-red" style="display:block;"><i class="icon-line2-vector"></i> Vectors</a>
+</div>
+<div class="col-md-4 nomargin nopadding">
+<a href="/premium/footage/singapore-skyline-night" title="Find Similar Premium Footage" class="nomargin center button btn-block button-small button-amber" style="display:block;"><i class="icon-line-video"></i> Footage</a>
+</div>
+</div>
+<div style="margin: 0px 5px 3px;font-size:12px;color:#afafaf;">
+<a class="fright" href="http://shutterstock.7eer.net/c/13749/42119/1305?subId1=imgdetail&amp;subId2=sidebar-B5&amp;subId3=logo&amp;sharedid=photo-detail-logo&amp;u=http%3A%2F%2Fwww.shutterstock.com" target="_blank" rel="nofollow"><img height="11px" src="https://www.stockvault.net/templates/default/images/shutterstock_logo2.png" alt="Shutterstock.com" /></a>Similar Sponsored Images
+</div>
+<div id="dt1" class="flex-shutterstock flex-images" style="margin: 0px auto 0px; display: none;">
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=593894891&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Aerial view of Singapore business district and city at twilight in Singapore, Asia">
+<img src="https://image.shutterstock.com/mosaic_250/1702576/593894891/stock-photo-aerial-view-of-singapore-business-district-and-city-at-twilight-in-singapore-asia-593894891.jpg" data-src="https://image.shutterstock.com/mosaic_250/1702576/593894891/stock-photo-aerial-view-of-singapore-business-district-and-city-at-twilight-in-singapore-asia-593894891.jpg" alt="Aerial view of Singapore business district and city at twilight in Singapore, Asia">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=112003280&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore city skyline at night">
+<img src="https://image.shutterstock.com/mosaic_250/162718586/112003280/stock-photo-singapore-city-skyline-at-night-112003280.jpg" data-src="https://image.shutterstock.com/mosaic_250/162718586/112003280/stock-photo-singapore-city-skyline-at-night-112003280.jpg" alt="Singapore city skyline at night">
+</a>
+</div>
+<div class="item" data-w="450" data-h="261">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=655748179&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Vibrant panorama background of Singapore skyline at the business bay">
+<img src="https://image.shutterstock.com/mosaic_250/616537/655748179/stock-photo-vibrant-panorama-background-of-singapore-skyline-at-the-business-bay-655748179.jpg" data-src="https://image.shutterstock.com/mosaic_250/616537/655748179/stock-photo-vibrant-panorama-background-of-singapore-skyline-at-the-business-bay-655748179.jpg" alt="Vibrant panorama background of Singapore skyline at the business bay">
+</a>
+</div>
+<div class="item" data-w="450" data-h="122">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=756444706&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Vibrant panorama background of Singapore skyline at the business bay">
+<img src="https://image.shutterstock.com/mosaic_250/616537/756444706/stock-photo-vibrant-panorama-background-of-singapore-skyline-at-the-business-bay-756444706.jpg" data-src="https://image.shutterstock.com/mosaic_250/616537/756444706/stock-photo-vibrant-panorama-background-of-singapore-skyline-at-the-business-bay-756444706.jpg" alt="Vibrant panorama background of Singapore skyline at the business bay">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=741399763&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore city skyline at dusk">
+<img src="https://image.shutterstock.com/mosaic_250/849775/741399763/stock-photo-singapore-city-skyline-at-dusk-741399763.jpg" data-src="https://image.shutterstock.com/mosaic_250/849775/741399763/stock-photo-singapore-city-skyline-at-dusk-741399763.jpg" alt="Singapore city skyline at dusk">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=378537619&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore skyline at the Marina during twilight.">
+<img src="https://image.shutterstock.com/mosaic_250/578401/378537619/stock-photo-singapore-skyline-at-the-marina-during-twilight-378537619.jpg" data-src="https://image.shutterstock.com/mosaic_250/578401/378537619/stock-photo-singapore-skyline-at-the-marina-during-twilight-378537619.jpg" alt="Singapore skyline at the Marina during twilight.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=679600114&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore skyline">
+<img src="https://image.shutterstock.com/mosaic_250/1597727/679600114/stock-photo-singapore-skyline-679600114.jpg" data-src="https://image.shutterstock.com/mosaic_250/1597727/679600114/stock-photo-singapore-skyline-679600114.jpg" alt="Singapore skyline">
+</a>
+</div>
+<div class="item" data-w="450" data-h="299">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=739779886&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore cityscape at dusk. Landscape of Singapore business building around Marina bay. Modern high building in business district area at twilight.">
+<img src="https://image.shutterstock.com/mosaic_250/608644/739779886/stock-photo-singapore-cityscape-at-dusk-landscape-of-singapore-business-building-around-marina-bay-modern-739779886.jpg" data-src="https://image.shutterstock.com/mosaic_250/608644/739779886/stock-photo-singapore-cityscape-at-dusk-landscape-of-singapore-business-building-around-marina-bay-modern-739779886.jpg" alt="Singapore cityscape at dusk. Landscape of Singapore business building around Marina bay. Modern high building in business district area at twilight.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="229">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1749011633&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="digital connection lines on a night skyline, wireless communication network concept">
+<img src="https://image.shutterstock.com/mosaic_250/1117187/1749011633/stock-photo-digital-connection-lines-on-a-night-skyline-wireless-communication-network-concept-1749011633.jpg" data-src="https://image.shutterstock.com/mosaic_250/1117187/1749011633/stock-photo-digital-connection-lines-on-a-night-skyline-wireless-communication-network-concept-1749011633.jpg" alt="digital connection lines on a night skyline, wireless communication network concept">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=330888845&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore Marina Bay rooftop view with urban skyscrapers at night.  ">
+<img src="https://image.shutterstock.com/mosaic_250/572056/330888845/stock-photo-singapore-marina-bay-rooftop-view-with-urban-skyscrapers-at-night-330888845.jpg" data-src="https://image.shutterstock.com/mosaic_250/572056/330888845/stock-photo-singapore-marina-bay-rooftop-view-with-urban-skyscrapers-at-night-330888845.jpg" alt="Singapore Marina Bay rooftop view with urban skyscrapers at night.  ">
+</a>
+</div>
+<div class="item" data-w="450" data-h="152">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1179636829&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore skyline at dusk">
+<img src="https://image.shutterstock.com/mosaic_250/916487/1179636829/stock-photo-singapore-skyline-at-dusk-1179636829.jpg" data-src="https://image.shutterstock.com/mosaic_250/916487/1179636829/stock-photo-singapore-skyline-at-dusk-1179636829.jpg" alt="Singapore skyline at dusk">
+</a>
+</div>
+<div class="item" data-w="450" data-h="253">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1196357671&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Cityscape night light view of Singapore skyline at twilight time">
+<img src="https://image.shutterstock.com/mosaic_250/3407204/1196357671/stock-photo-cityscape-night-light-view-of-singapore-skyline-at-twilight-time-1196357671.jpg" data-src="https://image.shutterstock.com/mosaic_250/3407204/1196357671/stock-photo-cityscape-night-light-view-of-singapore-skyline-at-twilight-time-1196357671.jpg" alt="Cityscape night light view of Singapore skyline at twilight time">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=789272446&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Aerial view of Singapore business district and city at twilight in Singapore, Asia.">
+<img src="https://image.shutterstock.com/mosaic_250/832528/789272446/stock-photo-aerial-view-of-singapore-business-district-and-city-at-twilight-in-singapore-asia-789272446.jpg" data-src="https://image.shutterstock.com/mosaic_250/832528/789272446/stock-photo-aerial-view-of-singapore-business-district-and-city-at-twilight-in-singapore-asia-789272446.jpg" alt="Aerial view of Singapore business district and city at twilight in Singapore, Asia.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=278509535&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore skyline at night with urban buildings">
+<img src="https://image.shutterstock.com/mosaic_250/572056/278509535/stock-photo-singapore-skyline-at-night-with-urban-buildings-278509535.jpg" data-src="https://image.shutterstock.com/mosaic_250/572056/278509535/stock-photo-singapore-skyline-at-night-with-urban-buildings-278509535.jpg" alt="Singapore skyline at night with urban buildings">
+</a>
+</div>
+<div class="item" data-w="450" data-h="224">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=147844208&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="View of Singapore city skyline at night">
+<img src="https://image.shutterstock.com/mosaic_250/109456/147844208/stock-photo-view-of-singapore-city-skyline-at-night-147844208.jpg" data-src="https://image.shutterstock.com/mosaic_250/109456/147844208/stock-photo-view-of-singapore-city-skyline-at-night-147844208.jpg" alt="View of Singapore city skyline at night">
+</a>
+</div>
+<div class="item" data-w="299" data-h="450">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1013397802&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore cityscape at dusk. Landscape of Singapore business building around Marina bay. Aerial view of modern high building in business district area at twilight.">
+<img src="https://image.shutterstock.com/mosaic_250/608644/1013397802/stock-photo-singapore-cityscape-at-dusk-landscape-of-singapore-business-building-around-marina-bay-aerial-1013397802.jpg" data-src="https://image.shutterstock.com/mosaic_250/608644/1013397802/stock-photo-singapore-cityscape-at-dusk-landscape-of-singapore-business-building-around-marina-bay-aerial-1013397802.jpg" alt="Singapore cityscape at dusk. Landscape of Singapore business building around Marina bay. Aerial view of modern high building in business district area at twilight.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="193">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=1888893772&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Landscape of financial district and business building at sunset time in Singapore city.">
+<img src="https://image.shutterstock.com/mosaic_250/2363189/1888893772/stock-photo-landscape-of-financial-district-and-business-building-at-sunset-time-in-singapore-city-1888893772.jpg" data-src="https://image.shutterstock.com/mosaic_250/2363189/1888893772/stock-photo-landscape-of-financial-district-and-business-building-at-sunset-time-in-singapore-city-1888893772.jpg" alt="Landscape of financial district and business building at sunset time in Singapore city.">
+</a>
+</div>
+<div class="item" data-w="450" data-h="299">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=150463478&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore sunset city skyline at business district, Marina Bay, Singapore">
+<img src="https://image.shutterstock.com/mosaic_250/1005848/150463478/stock-photo-singapore-sunset-city-skyline-at-business-district-marina-bay-singapore-150463478.jpg" data-src="https://image.shutterstock.com/mosaic_250/1005848/150463478/stock-photo-singapore-sunset-city-skyline-at-business-district-marina-bay-singapore-150463478.jpg" alt="Singapore sunset city skyline at business district, Marina Bay, Singapore">
+</a>
+</div>
+<div class="item" data-w="450" data-h="204">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=720745507&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Cityscape of Singapore city sunrise and building in morning time, take photo from roof top bar in hotel">
+<img src="https://image.shutterstock.com/mosaic_250/832528/720745507/stock-photo-cityscape-of-singapore-city-sunrise-and-building-in-morning-time-take-photo-from-roof-top-bar-in-720745507.jpg" data-src="https://image.shutterstock.com/mosaic_250/832528/720745507/stock-photo-cityscape-of-singapore-city-sunrise-and-building-in-morning-time-take-photo-from-roof-top-bar-in-720745507.jpg" alt="Cityscape of Singapore city sunrise and building in morning time, take photo from roof top bar in hotel">
+</a>
+</div>
+<div class="item" data-w="450" data-h="300">
+<a target="_blank" href="http://shutterstock.7eer.net/c/13749/42119/1305?u=http://www.shutterstock.com/pic.mhtml?id=559395556&subid1=imgdetail&subid2=sidebar-B5&subid3=mosaicapi&sharedid=photo-detail-sidebar" rel="nofollow" title="Singapore Skyline. Singapore`s business district, blue sky and night view for marina bay">
+<img src="https://image.shutterstock.com/mosaic_250/2811112/559395556/stock-photo-singapore-skyline-singapore-s-business-district-blue-sky-and-night-view-for-marina-bay-559395556.jpg" data-src="https://image.shutterstock.com/mosaic_250/2811112/559395556/stock-photo-singapore-skyline-singapore-s-business-district-blue-sky-and-night-view-for-marina-bay-559395556.jpg" alt="Singapore Skyline. Singapore`s business district, blue sky and night view for marina bay">
+</a>
+</div>
+<script type="text/javascript">
+                                        $(document).ready(function() {
+
+										// $('#dt1').hide();
+
+          //                                   $('#dt1').shutterstock({
+          //                                       type: 'get',
+          //                                       num: '15',
+          //                                       shuffle: false,
+          //                                       query: '',
+          //                                       subid1: 'imgdetail',
+          //                                       subid2: 'sidebar-B5',
+          //                                       subid3: 'mosaicapi',
+          //                                       sharedid: 'photo-detail-sidebar',
+          //                                       typephoto: ''
+          //                                   });
+										// setTimeout(function(){
+										// 	// $('#dt1.flex-shutterstock').flexImages({rowHeight: 145, truncate: 1, maxRows: 4});
+										// 	// $('#dt1').fadeIn('fast');
+										// },2000); 
+
+										// $('#dt1').bind("DOMSubtreeModified",function(){
+  								// 			$('#dt1.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 3});
+										// 	$('#dt1').fadeIn('fast');
+										// });
+                                        });
+
+                                    </script>
+</div>
+<div class="widget center clearfix" style="margin: 7px auto 20px;">
+<a href="#myDownload" data-lightbox="inline" title="Download Singapore Skyline at Night Stock Photo" data-image-id="280373" class="button button-rounded button-reveal button-green buttondownload" data-class-lg="button-large" data-class-md="button-large" data-class-sm="button-small" data-class-xs="button-large" data-class-xxs="button-large"><i class="icon-arrow-down2"></i><span>Free Download</span></a> <a class="button button-rounded button-reveal button-dark" data-toggle="modal" data-target="#myModal" id="donate_button" title="Support this user - help keep this site free" href="#" data-class-lg="button-large" data-class-md="button-large" data-class-sm="button-small" data-class-xs="button-large" data-class-xxs="button-large"><i class="icon-coffee2"></i><span>Buy me Coffee</span></a>
+<div class="si-share nobottomborder nobottommargin clearfix" style="border-top:1px solid #eee;padding:15px 0 5px;margin-top:10px;">
+<div class="sharethis-inline-share-buttons"></div>
+</div>
+
+<div class="modal1 mfp-hide subscribe-widget" id="myDownload">
+<div class="block divcenter" style="background-color: #1d242c; color: #FFF!important; max-width: 600px;">
+<h4 class="nobottommargin center" style="padding:20px 0!important;background-color:#35aadd!important;color:#FFF!important;">THANKS FOR DOWNLOADING!</h4>
+<div class="feature-box fbox-center fbox-effect fbox-border nobottomborder nobottommargin notopmargin" style="padding: 30px;">
+<h3 style="color:#FFF!important;">Did you find the image you were looking for?<span class="subtitle" style="color:#FFF!important;">If not, check out the premium photos from Shutterstock!</span></h3>
+<p><a href="https://shutterstock.7eer.net/c/2029636/1615122/1305?subId1=stockvault-after-download-modal&sharedid=StockVault-ImageFTTest" target="_blank"><img src="https://www.stockvault.net/templates/default/images/ss10free.jpg" border="0" alt="Get 10 free images now"></a></p>
+</div>
+<div class="section center nomargin" style="padding: 20px 30px; background-color: #131519;">
+<a href="#" data-href="#" class="dark ls1" style="text-transform: uppercase;font-size: 12px;" onClick="$.magnificPopup.close();">No Thanks, Close this Window</a>
+</div>
+</div>
+</div>
+<span class="clear"></span>
+</div>
+</div>
+<div class="col_one_third nobottommargin">
+<div class="widget clearfix center">
+<div style="margin-top: 5px; margin-bottom: 20px;">
+<div class="footer-big-contacts">
+2566
+<span>Views</span>
+</div>
+</div>
+<div style="margin-bottom: 20px;">
+<div class="footer-big-contacts">
+278 <span>Downloads</span>
+</div>
+</div>
+<div class>
+<div class="footer-big-contacts">
+1 <span>Likes</span>
+</div>
+</div>
+</div>
+</div>
+<div class="col_two_third nobottommargin col_last">
+<div class="widget clearfix noborder notopmargin notoppadding">
+
+<div class="panel panel-default events-meta">
+<div class="panel-body">
+<ul class="portfolio-meta nobottommargin">
+<li><span><i class="icon-user"></i>Author:</span> <a href="/user/profile/183425">eranda</a></li>
+<li><span><i class="icon-calendar3"></i>Uploaded:</span> November 1st 2020</li>
+<li><span><i class="icon-files"></i>License:</span> <a href="https://creativecommons.org/publicdomain/zero/1.0/">Creative Commons - CC0</a></li>
+<li><span><i class="icon-measure"></i>Dimentions:</span> 4928 x 3264 px</li>
+<li><span><i class="icon-archive2"></i>File Size:</span> 7.23 MB</li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+<div style="clear:both;"></div>
+<div id="dt3" class="flex-shutterstock flex-images" style="margin: 0px auto 0px; display: none;">
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1035506708" rel="nofollow" class="preview_video" target="_blank" title="aerial view hyperlapse 4k video of Singapore City Skyline.">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1035506708/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1035506708/thumb/stock-footage-aerial-view-hyperlapse-k-video-of-singapore-city-skyline.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1035506708/thumb/stock-footage-aerial-view-hyperlapse-k-video-of-singapore-city-skyline.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1058676523" rel="nofollow" class="preview_video" target="_blank" title="Downtown skyline of Singapore as viewed from across the water from The Garden East night timelapse hyperlapse. Singapore. Reflection in water with illuminated skyscrapers">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1058676523/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1058676523/thumb/stock-footage-downtown-skyline-of-singapore-as-viewed-from-across-the-water-from-the-garden-east-night-timelapse.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1058676523/thumb/stock-footage-downtown-skyline-of-singapore-as-viewed-from-across-the-water-from-the-garden-east-night-timelapse.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1035760133" rel="nofollow" class="preview_video" target="_blank" title="Hyperlapse aerial view flying backward of Road highway along to the night cityscape skyline at Singapore.">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1035760133/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1035760133/thumb/stock-footage-hyperlapse-aerial-view-flying-backward-of-road-highway-along-to-the-night-cityscape-skyline-at.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1035760133/thumb/stock-footage-hyperlapse-aerial-view-flying-backward-of-road-highway-along-to-the-night-cityscape-skyline-at.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1023847222" rel="nofollow" class="preview_video" target="_blank" title="4k aerial time lapse of cloudscape at Singapore city skyline. Pan left">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1023847222/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1023847222/thumb/stock-footage--k-aerial-time-lapse-of-cloudscape-at-singapore-city-skyline-pan-left.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1023847222/thumb/stock-footage--k-aerial-time-lapse-of-cloudscape-at-singapore-city-skyline-pan-left.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1024286963" rel="nofollow" class="preview_video" target="_blank" title="4k time lapse of dramatic sunrise over Singapore city skyline. Pan right">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1024286963/thumb/11.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1024286963/thumb/stock-footage--k-time-lapse-of-dramatic-sunrise-over-singapore-city-skyline-pan-right.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1024286963/thumb/stock-footage--k-time-lapse-of-dramatic-sunrise-over-singapore-city-skyline-pan-right.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1029857645" rel="nofollow" class="preview_video" target="_blank" title="night time illumination singapore downtown buildings front aerial panorama 4k">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1029857645/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1029857645/thumb/stock-footage-night-time-illumination-singapore-downtown-buildings-front-aerial-panorama-k.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1029857645/thumb/stock-footage-night-time-illumination-singapore-downtown-buildings-front-aerial-panorama-k.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1060270154" rel="nofollow" class="preview_video" target="_blank" title="Downtown skyline of Singapore as viewed from across the water from The Garden East day to night transition timelapse. Singapore. Reflection in water with illuminated skyscrapers">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1060270154/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1060270154/thumb/stock-footage-downtown-skyline-of-singapore-as-viewed-from-across-the-water-from-the-garden-east-day-to-night.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1060270154/thumb/stock-footage-downtown-skyline-of-singapore-as-viewed-from-across-the-water-from-the-garden-east-day-to-night.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1037558690" rel="nofollow" class="preview_video" target="_blank" title="Time lapse video of the Singapore at night time. Views of Marina Bay at night with colorful light from hotels and buildings around Marina Bay">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1037558690/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1037558690/thumb/stock-footage-time-lapse-video-of-the-singapore-at-night-time-views-of-marina-bay-at-night-with-colorful-light.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1037558690/thumb/stock-footage-time-lapse-video-of-the-singapore-at-night-time-views-of-marina-bay-at-night-with-colorful-light.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1061293486" rel="nofollow" class="preview_video" target="_blank" title="Singapore Sunset Beautiful Time lapse of day to night of Singapore city skyline from aerial and high angle overlooking Marina bay and CBD area. Pan up motion timelapse.  4K available.">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1061293486/thumb/6.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1061293486/thumb/stock-footage-singapore-sunset-beautiful-time-lapse-of-day-to-night-of-singapore-city-skyline-from-aerial-and.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1061293486/thumb/stock-footage-singapore-sunset-beautiful-time-lapse-of-day-to-night-of-singapore-city-skyline-from-aerial-and.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<div class="item" data-w="400" data-h="224">
+<a href="https://shutterstock.7eer.net/c/13749/42119/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1013279015" rel="nofollow" class="preview_video" target="_blank" title="4K.Time lapse automatic train fast speed at Tokyo city of Japan asia is a famous place in Japan Asia Odaiba line">
+<div class="shutter_video" style="display: block;">
+<video preload="true" muted="muted" type="video/mp4" width="100%" poster="https://ak.picdn.net/shutterstock/videos/1013279015/thumb/1.jpg">
+<source src="https://ak.picdn.net/shutterstock/videos/1013279015/thumb/stock-footage--k-time-lapse-automatic-train-fast-speed-at-tokyo-city-of-japan-asia-is-a-famous-place-in-japan.mp4" type="video/mp4" autostart="false">
+<source src="https://ak.picdn.net/shutterstock/videos/1013279015/thumb/stock-footage--k-time-lapse-automatic-train-fast-speed-at-tokyo-city-of-japan-asia-is-a-famous-place-in-japan.webm" type="video/webm" autostart="false">
+</video>
+</div>
+</a>
+</div>
+<script type="text/javascript">
+                                        $(document).ready(function() {
+
+										// $('#dt3').hide();
+
+          //                                   $('#dt3').shutterstock({
+          //                                       type: 'videos',
+          //                                       num: '4',
+          //                                       shuffle: false,
+          //                                       query: '',
+          //                                       subid1: 'imgdetail',
+          //                                       subid2: 'sidebarB5',
+          //                                       subid3: 'mosaicapi',
+          //                                       sharedid: 'video-detail-sidebar',
+          //                                       //typephoto: ''
+          //                                   });
+										// setTimeout(function(){
+										// 	//$('#dt1.flex-shutterstock').flexImages({rowHeight: 145, truncate: 1, maxRows: 4});
+										// 	//$('#dt1').fadeIn('fast');
+										// },2000); 
+
+										// $('#dt3').bind("DOMSubtreeModified",function(){
+  								// 			$('#dt3.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 2});
+										// 	$('#dt3').fadeIn('fast');
+										// });
+                                        });
+
+                                    </script>
+</div>
+<div style="margin: 0px 5px 30px; font-size: 11px; color: #afafaf;">
+<a class="fright" href="http://shutterstock.7eer.net/c/13749/42119/1305?subId1=imgdetail&amp;subId2=sidebar-B5&amp;subId3=coupon&amp;sharedid=video-detail-coupon&amp;u=http%3A%2F%2Fwww.shutterstock.com" target="_blank" rel="nofollow"><img height="11px" src="https://www.stockvault.net/templates/default/images/shutterstock_logo2.png" alt="Shutterstock.com" /></a>Similar Sponsored Footage
+</div>
+</div>
+</div>
+</div>
+<div class="section col_full nomargin" style="padding: 30px 0!important; background-color: #f4f4f4; border-top: 1px solid #e9e9e9;">
+<div class="container-fullwidth nobottommargin clearfix">
+<div class="col-md-6 nopadding nomargin"><h4 class="nomargin" style="padding:0 5px;">Similar Images</h4></div>
+<div class="col-md-6 nopadding nomargin" data-class-lg="tright" data-class-xxs="tleft" data-class-md="tright">
+<h5 class="t500" style="padding:0 8px 0 5px;">From <a href="/collection/104/urban-scenes"> Urban Scenes</a> Collection</h5>
+</div>
+<div class="clear"></div>
+<div id="flexgridSimilar" class="flex-images">
+<div class="item" data-w="5184" data-h="3456">
+<a class="preview" href="/photo/187718/glare" title="Glare" photoId="187718" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/14/187718/thumb16.jpg" alt="Glare - Free Stock Photo" title="Glare - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1726" data-h="2200">
+<a class="preview" href="/photo/209603/skyline" title="Skyline" photoId="209603" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/09/12/209603/thumb16.jpg" alt="Skyline - Free Stock Photo" title="Skyline - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="2200" data-h="1236">
+<a class="preview" href="/photo/207680/seine-river" title="Seine River" photoId="207680" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/08/17/207680/thumb16.jpg" alt="Seine River - Free Stock Photo" title="Seine River - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="4496" data-h="3000">
+<a class="preview" href="/photo/187931/aerial-view" title="Aerial View" photoId="187931" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/15/187931/thumb16.jpg" alt="Aerial View - Free Stock Photo" title="Aerial View - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="2850" data-h="1899">
+<a class="preview" href="/photo/137542/tall-skyscrapers" title="Tall skyscrapers" photoId="137542" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2012/11/06/137542/thumb16.jpg" alt="Tall skyscrapers - Free Stock Photo" title="Tall skyscrapers - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3176" data-h="2356">
+<a class="preview" href="/photo/187273/construction" title="Construction" photoId="187273" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/12/187273/thumb16.jpg" alt="Construction - Free Stock Photo" title="Construction - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="7464" data-h="3650">
+<a class="preview" href="/photo/191690/city" title="City" photoId="191690" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/27/191690/thumb16.jpg" alt="City - Free Stock Photo" title="City - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="5573" data-h="3482">
+<a class="preview" href="/photo/189388/city-at-night" title="City at night" photoId="189388" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/21/189388/thumb16.jpg" alt="City at night - Free Stock Photo" title="City at night - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="5472" data-h="3648">
+<a class="preview" href="/photo/192078/city" title="City" photoId="192078" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/04/02/192078/thumb16.jpg" alt="City - Free Stock Photo" title="City - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1920" data-h="1535">
+<a class="preview" href="/photo/205029/white-house" title="White House" photoId="205029" isFeatured="0" approvedBy="161904">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/07/22/205029/thumb16.jpg" alt="White House - Free Stock Photo" title="White House - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="4896" data-h="3264">
+<a class="preview" href="/photo/187639/under-the-bridge" title="Under The Bridge" photoId="187639" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/12/187639/thumb16.jpg" alt="Under The Bridge - Free Stock Photo" title="Under The Bridge - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="5184" data-h="3456">
+<a class="preview" href="/photo/185150/busy" title="Busy" photoId="185150" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/26/185150/thumb16.jpg" alt="Busy - Free Stock Photo" title="Busy - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="1920" data-h="1080">
+<a class="preview" href="/photo/185177/yellow-cab" title="Yellow Cab" photoId="185177" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/26/185177/thumb16.jpg" alt="Yellow Cab - Free Stock Photo" title="Yellow Cab - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3360" data-h="2240">
+<a class="preview" href="/photo/185073/city-of-lights" title="City Of Lights" photoId="185073" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/02/25/185073/thumb16.jpg" alt="City Of Lights - Free Stock Photo" title="City Of Lights - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3300" data-h="2200">
+<a class="preview" href="/photo/188032/city-of-lights" title="City of Lights" photoId="188032" isFeatured="0" approvedBy="157355">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2016/03/15/188032/thumb16.jpg" alt="City of Lights - Free Stock Photo" title="City of Lights - Free Stock Photo"></a>
+</div>
+</div>
+</div>
+</div>
+<div class="section col_full nomargin" style="padding:30px 0!important;background-color:#fbfbfb;border-top:1px solid #e9e9e9;">
+<div class="container-fullwidth clearfix">
+<div class="nobottommargin">
+<h4 style="margin:0 0 15px 5px!important;">Popular Photos From <a href="/user/profile/183425">eranda</a></h4>
+<div id="flexgridPhotogr" class="flex-images">
+<div class="item" data-w="4928" data-h="3264">
+<a class="preview" href="/photo/280373/singapore-skyline-at-night" title="Singapore Skyline at Night" photoId="280373" isFeatured="1" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280373/thumb16.jpg" alt="Singapore Skyline at Night - Free Stock Photo" title="Singapore Skyline at Night - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280399/maya-bay-thailand" title="Maya bay - Thailand" photoId="280399" isFeatured="1" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280399/thumb16.jpg" alt="Maya bay - Thailand - Free Stock Photo" title="Maya bay - Thailand - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="3000">
+<a class="preview" href="/photo/280403/red-abstract-swirl-background" title="Red Abstract Swirl Background" photoId="280403" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280403/thumb16.jpg" alt="Red Abstract Swirl Background - Free Stock Photo" title="Red Abstract Swirl Background - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280383/tea-plantation-in-sri-lanka" title="Tea plantation in Sri Lanka" photoId="280383" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280383/thumb16.jpg" alt="Tea plantation in Sri Lanka - Free Stock Photo" title="Tea plantation in Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="3000">
+<a class="preview" href="/photo/280404/abstract-purple-swirl-background" title="Abstract Purple Swirl Background" photoId="280404" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280404/thumb16.jpg" alt="Abstract Purple Swirl Background - Free Stock Photo" title="Abstract Purple Swirl Background - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280430/sunset-at-sri-lanka-southern-beach" title="Sunset at Sri Lanka Southern Beach" photoId="280430" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/02/280430/thumb16.jpg" alt="Sunset at Sri Lanka Southern Beach - Free Stock Photo" title="Sunset at Sri Lanka Southern Beach - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280385/tea-plantation-in-sri-lanka" title="Tea plantation in Sri Lanka" photoId="280385" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280385/thumb16.jpg" alt="Tea plantation in Sri Lanka - Free Stock Photo" title="Tea plantation in Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="3000">
+<a class="preview" href="/photo/280401/abstract-multicolor-lines-background" title="Abstract Multicolor Lines Background" photoId="280401" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280401/thumb16.jpg" alt="Abstract Multicolor Lines Background - Free Stock Photo" title="Abstract Multicolor Lines Background - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3020" data-h="2000">
+<a class="preview" href="/photo/280378/marina-bay-sands-night-lights" title="Marina Bay Sands - Night Lights" photoId="280378" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280378/thumb16.jpg" alt="Marina Bay Sands - Night Lights - Free Stock Photo" title="Marina Bay Sands - Night Lights - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280395/arugam-bay-sri-lanka-fishermen-at-beach" title="Arugam Bay Sri Lanka Fishermen at Beach" photoId="280395" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280395/thumb16.jpg" alt="Arugam Bay Sri Lanka Fishermen at Beach - Free Stock Photo" title="Arugam Bay Sri Lanka Fishermen at Beach - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3020" data-h="2000">
+<a class="preview" href="/photo/280375/singapore-skyscrapers" title="Singapore Skyscrapers" photoId="280375" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280375/thumb16.jpg" alt="Singapore Skyscrapers - Free Stock Photo" title="Singapore Skyscrapers - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280397/randenigala-reservoir-sri-lanka" title="Randenigala Reservoir - Sri Lanka" photoId="280397" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280397/thumb16.jpg" alt="Randenigala Reservoir - Sri Lanka - Free Stock Photo" title="Randenigala Reservoir - Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3019" data-h="2000">
+<a class="preview" href="/photo/280377/singapore-cityview-at-night" title="Singapore Cityview at Night" photoId="280377" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280377/thumb16.jpg" alt="Singapore Cityview at Night - Free Stock Photo" title="Singapore Cityview at Night - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3872" data-h="2592">
+<a class="preview" href="/photo/280387/sri-lankan-traditional-sweets-kawum" title="Sri Lankan traditional sweets, Kawum" photoId="280387" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280387/thumb16.jpg" alt="Sri Lankan traditional sweets, Kawum - Free Stock Photo" title="Sri Lankan traditional sweets, Kawum - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="3000">
+<a class="preview" href="/photo/280402/abstract-swirl-lines-background" title="Abstract Swirl Lines Background" photoId="280402" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280402/thumb16.jpg" alt="Abstract Swirl Lines Background - Free Stock Photo" title="Abstract Swirl Lines Background - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280400/koneswaram-temple-rocks-at-trincomalee-sri-lanka" title="Koneswaram temple rocks at Trincomalee - Sri Lanka" photoId="280400" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280400/thumb16.jpg" alt="Koneswaram temple rocks at Trincomalee - Sri Lanka - Free Stock Photo" title="Koneswaram temple rocks at Trincomalee - Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280384/sri-pada-sri-lanka" title="Sri Pada Sri Lanka" photoId="280384" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280384/thumb16.jpg" alt="Sri Pada Sri Lanka - Free Stock Photo" title="Sri Pada Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280429/sri-lanka-southern-beach-fishing-boats" title="Sri Lanka Southern Beach Fishing Boats" photoId="280429" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/02/280429/thumb16.jpg" alt="Sri Lanka Southern Beach Fishing Boats - Free Stock Photo" title="Sri Lanka Southern Beach Fishing Boats - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280388/phuket-thailand-beach" title="Phuket, Thailand beach" photoId="280388" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280388/thumb16.jpg" alt="Phuket, Thailand beach - Free Stock Photo" title="Phuket, Thailand beach - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280396/randenigala-reservoir-in-sri-lanka" title="Randenigala Reservoir in Sri Lanka" photoId="280396" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280396/thumb16.jpg" alt="Randenigala Reservoir in Sri Lanka - Free Stock Photo" title="Randenigala Reservoir in Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280425/sri-lanka-southern-beach" title="Sri Lanka Southern Beach" photoId="280425" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/02/280425/thumb16.jpg" alt="Sri Lanka Southern Beach - Free Stock Photo" title="Sri Lanka Southern Beach - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3100" data-h="2000">
+<a class="preview" href="/photo/280426/southern-beach-sri-lanka" title="Southern Beach - Sri Lanka" photoId="280426" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/02/280426/thumb16.jpg" alt="Southern Beach - Sri Lanka - Free Stock Photo" title="Southern Beach - Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280398/tea-plantation-at-maskeliya-sri-lanka" title="Tea plantation at Maskeliya, Sri Lanka" photoId="280398" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280398/thumb16.jpg" alt="Tea plantation at Maskeliya, Sri Lanka - Free Stock Photo" title="Tea plantation at Maskeliya, Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3020" data-h="2000">
+<a class="preview" href="/photo/280374/singapore-marina-bay-sands" title="Singapore Marina Bay Sands" photoId="280374" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280374/thumb16.jpg" alt="Singapore Marina Bay Sands - Free Stock Photo" title="Singapore Marina Bay Sands - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="3000">
+<a class="preview" href="/photo/280405/multicolor-lines-swirl-background" title="Multicolor Lines Swirl Background" photoId="280405" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280405/thumb16.jpg" alt="Multicolor Lines Swirl Background - Free Stock Photo" title="Multicolor Lines Swirl Background - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3872" data-h="2592">
+<a class="preview" href="/photo/280391/arugam-bay-sri-lanka-after-the-sunrise-in-the-morning" title="Arugam bay Sri Lanka after the sunrise in the morning" photoId="280391" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280391/thumb16.jpg" alt="Arugam bay Sri Lanka after the sunrise in the morning - Free Stock Photo" title="Arugam bay Sri Lanka after the sunrise in the morning - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2008">
+<a class="preview" href="/photo/280394/arugam-bay-sri-lanka-after-the-sunrise" title="Arugam bay Sri Lanka after the sunrise" photoId="280394" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280394/thumb16.jpg" alt="Arugam bay Sri Lanka after the sunrise - Free Stock Photo" title="Arugam bay Sri Lanka after the sunrise - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280372/wind-turbines-at-ambewela-sri-lanka" title="Wind turbines at Ambewela Sri Lanka" photoId="280372" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280372/thumb16.jpg" alt="Wind turbines at Ambewela Sri Lanka - Free Stock Photo" title="Wind turbines at Ambewela Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280382/sri-pada-sri-lanka" title="Sri Pada Sri Lanka" photoId="280382" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/01/280382/thumb16.jpg" alt="Sri Pada Sri Lanka - Free Stock Photo" title="Sri Pada Sri Lanka - Free Stock Photo"></a>
+</div>
+<div class="item" data-w="3000" data-h="2000">
+<a class="preview" href="/photo/280428/boats-outside-sri-lanka-southern-beach" title="Boats Outside Sri Lanka Southern Beach" photoId="280428" isFeatured="0" approvedBy="655">
+<img src="/templates/default/images/blank.gif" data-src="/./data/2020/11/02/280428/thumb16.jpg" alt="Boats Outside Sri Lanka Southern Beach - Free Stock Photo" title="Boats Outside Sri Lanka Southern Beach - Free Stock Photo"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="modal fade collection-modal" id="addcollection_modal" tabindex="-1" role="dialog" aria-labelledby="addcollection_modalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+<div class="collection-add-btn">
+<a href="javascript:;" class="btn-collection button button-mini button-blue button-rounded add_collection" title="Add New Collection" id="add_new_cl">
+Create New
+</a>
+</div>
+<h4 class="modal-title" id="addcollection_modalLabel">Add to Collection</h4>
+</div>
+<div class="modal-body">
+<div class="alert alert-danger" id="alertdiv" style="display: none;"></div>
+<div class="active-box row">
+<div class="search-box col-lg-12">
+<input class="required sm-form-control input-block-level input_box" id="search_collection" autocomplete="off" type="text" placeholder="Enter keyword...">
+</div>
+<div class="col-md-12 col-xs-12 text-center no-found" style="display: none;">Collection not found.</div>
+<div class="clearfix"></div>
+<ul class="pagination pagination-lg modal-pagination">
+</ul>
+
+</div>
+<div id="add_cl_div" style="display: none;">
+<form id="add_cl_form" method="post" action="javascript:;">
+<div class="col_full">
+<label for="cl_tags">Name <small>*</small></label>
+<input type="text" class="required form-control" id="cl_name" name="name" rows="6" cols="30" required>
+</div>
+<div class="col_full">
+<label for="cl_tags">Tags <small>*</small> (comma seperated)</label>
+<input type="text" class="required form-control" id="cl_tags" name="tags" rows="6" cols="30" required>
+</div>
+<div class="col_full">
+<label for="cl_description">Description <small>*</small></label>
+<textarea class="required form-control" id="cl_description" name="description" rows="6" cols="30" required></textarea>
+</div>
+<div class="col_full">
+<input type="checkbox" name="private"> <span>Make private</span>
+</div>
+<div class="col_full nobottommargin">
+<button type="button" class="back-btn button button-3d button-green">Back</button>
+<button class="button button-3d nomargin" type="submit" id name>Create Collection</button>
+</div>
+</form>
+</div>
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<form method="post" action="/photo/download/" id="downloadimage" style="margin-bottom: 0px!important;">
+<input type="hidden" name="id" value="280373">
+</form>
+
+
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-body">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<h4 class="modal-title center" id="myModalLabel">Show your support for eranda</h4>
+</div>
+<div class="modal-body center">
+<h4>Do you appreciate the free stock photos we provide?</h4>
+<p>If you do, you can support contributors by donating a small amount.<br/>You have chosen to donate directly to the contributor <strong><a href="/user/profile/183425">eranda</a></strong>.</p>
+<div class="line bottommargin-sm topmargin-sm"></div>
+<div class="col_full center bottommargin-sm">
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin-bottom: 15px;" target="_blank">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="venushikat@gmail.com">
+<input type="hidden" name="lc" value="EN">
+<input type="hidden" name="item_name" value="Stockvault.net Donation">
+
+
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="rm" value="1">
+<input type="hidden" name="return" value="//stockvault.net/thanks-for-donating">
+<input type="hidden" name="cancel_return" value="//stockvault.net">
+<input type="hidden" name="bn" value="PP-DonationsBF:paypal_button.png:NonHosted">
+<input type="image" src="//stockvault.net/templates/default/images/revshare_paypal.gif" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+Click the logo above to donate any amount via Paypal.com
+</div>
+<div class="line bottommargin-sm topmargin-sm"></div>
+<div class="col_full center nobottommargin">
+<form action="https://www.skrill.com/app/payment.pl" method="post" style="margin-bottom: 15px;">
+<input type="hidden" name="pay_to_email" value="erandamx@gmail.com">
+<input type="hidden" name="return_url" value="//stockvault.net/thanks-for-donating">
+<input type="hidden" name="language" value="EN">
+<input type="hidden" name="currency" value="USD">
+<input type="hidden" name="amount" value="5.00">
+<input type="hidden" name="detail1_description" value="Stockvault Donation">
+<input type="hidden" name="detail1_text" value="Donation to help support stockvault">
+<input type="image" src="//stockvault.net/templates/default/images/revshare_skrill.jpg" name="submit" alt="Moneybookers - The safer, easier way to pay online!">
+</form>
+Click the logo above to donate $5 via Skrill.com
+</div>
+</div>
+<div class="clear"></div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<footer id="footer" class="dark noborder">
+<a href="https://shutterstock.7eer.net/c/2029636/1615122/1305?subId1=stockvault-full-width-banner&sharedid=StockVault-ImageFTTest" target="_blank" rel="nofollow">
+<div class="promo promo-light promo-full hidden-xs">
+<div class="container">
+<img src="https://www.stockvault.net/templates/default/images/backgrounds/ss-wide-banner-1200x130-style-1.jpg" alt="Shutterstock Free Trial" style="width: 100%; height: auto;">
+</div>
+</div>
+</a>
+<div class="container">
+
+<div class="footer-widgets-wrap clearfix">
+<div class="col-md-6">
+<div class="widget clearfix">
+<div class="clear-bottommargin-sm">
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Free Photos:</span>
+142.483 </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Downloads:</span>
+27.7 M </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-sm-4">
+<div class="footer-big-contacts">
+<span>Members:</span>
+105.888 </div>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+</div>
+</div>
+<div class="line" style="margin: 30px 0;"></div>
+<div class="visible-sm topmargin-sm"></div>
+<div class="widget clearfix">
+<div class="visible-sm topmargin-sm"></div>
+<div class="col-xs-4 clearfix">
+<a href="https://www.facebook.com/stockvault/" class="social-icon si-dark si-colored si-facebook nobottommargin" style="margin-right: 10px;">
+<i class="icon-facebook"></i>
+<i class="icon-facebook"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://www.facebook.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Facebook</small></a>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-xs-4 clearfix">
+<a href="https://www.twitter.com/stockvault/" class="social-icon si-dark si-colored si-twitter nobottommargin" style="margin-right: 10px;">
+<i class="icon-twitter"></i>
+<i class="icon-twitter"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://www.twitter.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Twitter</small></a>
+<div class="visible-sm visible-xs bottommargin-sm"></div>
+</div>
+<div class="col-xs-4 clearfix">
+<a href="https://pinterest.com/stockvault/" class="social-icon si-dark si-colored si-pinterest nobottommargin" style="margin-right: 10px;">
+<i class="icon-pinterest"></i>
+<i class="icon-pinterest"></i>
+</a>
+<a class="hidden-xs hidden-md" href="https://pinterest.com/stockvault/"><small style="display: block; margin-top: 3px;"><strong>Follow us </strong><br>on Pinterest</small></a>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="visible-sm visible-xs line" style="margin: 30px 0;"></div>
+<div class="widget clearfix notopmargin">
+<div class="row">
+<div class="visible-sm topmargin-sm"></div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/about">About us</a></li>
+<li><a href="//www.stockvault.net/advertise">Advertise</a></li>
+<li><a href="//www.stockvault.net/resources">Resources</a></li>
+<li><a href="//www.stockvault.net/terms-of-use">Terms of Use</a></li>
+<li><a href="//www.stockvault.net/faq">FAQs</a></li>
+</ul>
+</div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/contact">Contact</a></li>
+<li><a href="//www.stockvault.net/photographer-appreciation-program">Revenue Sharing</a></li>
+<li><a href="//www.stockvault.net/tutorials">Tutorials</a></li>
+<li><a href="//www.stockvault.net/c/textures">Wallpapers & Backgrounds</a></li>
+<li><a href="//www.stockvault.net/shutterstock-coupon-codes">Shutterstock Coupons</a></li>
+</ul>
+</div>
+<div class="col-sm-4 widget_links">
+<ul style="margin-top: 3px !important;">
+<li><a href="//www.stockvault.net/free-photos">Free images</a></li>
+<li><a href="https://www.vectorportal.com/" target="_blank">Free vectors</a></li>
+<li><a href="https://dareful.com/" target="_blank">Free video footage</a></li>
+<li><a href="https://authentic.co/" target="_blank">Authentic Stock</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="copyrights">
+<div class="container center clearfix">
+<div class="col-md-9 tleft">
+Copyright &copy; 2004-2023 Stockvault.net and it's Respected Contributors - All Rights Reserved - <a href="//www.stockvault.net/privacy-policy" style="color: #fff;">Privacy Policy</a>
+</div>
+<div class="col-md-3 tright">
+<div id="google_translate_element"></div>
+<script type="text/javascript">
+							function googleTranslateElementInit() {
+							  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+							}
+						</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+</div>
+</footer>
+</div>
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+
+<script src="/templates/default/js/functions.js"></script>
+<script src="/templates/default/js/plugins.js"></script>
+<script src="/templates/default/js/jquery.flex-images.min.js"></script>
+<script src="/templates/default/js/custom.js"></script>
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script>
+	    $('#flexgrid').flexImages({rowHeight: 300});
+		$('#flexgridPhotogr').flexImages({rowHeight: 200, truncate: 1, maxRows: 3});
+		$('#flexgridSimilar').flexImages({rowHeight: 200, truncate: 1, maxRows: 2});
+		$('#flexgridindex').flexImages({rowHeight: 300, truncate: 1, maxRows: 7});
+		$('#flexgridcollection').flexImages({rowHeight: 340});
+    </script>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	
+	  ga('create', 'UA-159691-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+
+<script type="text/javascript">
+    <!--
+        if (window.self != window.top && document.referrer.indexOf('freepik') > 0 ) {
+        top.location.replace(window.location.pathname);
+    }
+    //-->
+    </script>
+
+<script type="text/javascript">
+	$(function(){
+
+		$('#add_cl_form').find('.nobottommargin').before( '<div class="g-recaptcha" data-sitekey="6LeQPB0TAAAAANXK8f9XXwPvauGAYcS9N511Tu86"></div><br>' );
+
+		$('.login').click(function(e){
+			e.preventDefault();
+			var rr =  '//'+window.location.host + window.location.pathname + window.location.search;
+			rr = encodeURIComponent(rr);
+			var pathArray = window.location.pathname.split( '/' );
+			if(pathArray[1]!='login')
+			{
+				var returnurl = '?returnurl='+rr;
+			}else{
+				var returnurl = '';
+			}
+			window.location.href=$(this).attr('href')+returnurl;
+		});
+
+		$('#page-menu-wrap').find('form').attr('id','smpl_search');
+
+		$('#smpl_search').one('submit', function(e) {
+		    e.preventDefault();
+		    var elm = $(this).find('input[name="query"]');
+		    var str = elm.val();
+			var tt = str.replace(/[^a-z0-9\s]/gi, ' ').replace(/[_\s]/g, ' ');
+			tt = tt.split(' ');
+			tt = tt.filter(function(v){return v!==''});
+			tt = tt.join(' ');	
+			elm.val(tt);
+		    // and when you done:
+		    $(this).submit();
+		});
+
+		$('#searchform').one('submit', function(e) {
+		    e.preventDefault();
+		    var str = $('#search_input').val();
+			var tt = str.replace(/[^a-z0-9\s]/gi, ' ').replace(/[_\s]/g, ' ');
+			tt = tt.split(' ');
+			tt = tt.filter(function(v){return v!==''});
+			tt = tt.join(' ');	
+			$('#search_input').val(tt);
+		    // and when you done:
+		    $(this).submit();
+		});
+	});
+</script>
+
+<script>
+  (function(){
+    if(typeof _bsa !== 'undefined' && _bsa) {
+	  _bsa.init('default', 'CEAI65QM', 'placement:stockvaultnet', { target: "#default_stockvaultnet", align: "horizontal" });
+    }
+  })();
+</script>
+</body>
+</html><script type="text/javascript">
+
+	$('#dt3').flexImages({rowHeight: 140, truncate: 1,maxRows: 2});
+	$('#dt3').fadeIn('fast');
+	// flexImages({rowHeight: 140, truncate: 1, maxRows: 2})
+
+	var figure = $(".preview_video").hover( hoverVideo, hideVideo );
+
+	function hoverVideo(e) {  
+	    $('video', this).get(0).play(); 
+	}
+
+	function hideVideo(e) {
+	    $('video', this).get(0).pause(); 
+	}
+
+	$('#dt1.flex-shutterstock').flexImages({rowHeight: 150, truncate: 1, maxRows: 3});
+	$('#dt1').fadeIn('fast');
+	$('#dt2.flex-shutterstock').flexImages({rowHeight: 140, truncate: 1, maxRows: 3});
+	$('#dt2').fadeIn('fast');
+	$(window).trigger('resize');
+
+
+	var tmpar = [];
+	function searchcolletion(start,val,perpage)
+	{
+	  var tt = [];
+	  $('.pg').html('');
+
+	  var searchField = val;
+	  var expression = new RegExp(searchField, "i");
+
+	  $.when( 
+	    $.each(tmpar, function(key, value){
+	      if (value.search(expression) != -1)
+	      {
+	        tt.push(value);
+	      }
+	    }) 
+	  ).done(function() {
+	  	$('.srch').css('display','none');
+	  	$('.no-found').css('display','none');
+	  	$('.modal-pagination').html('');
+	    if(tt.length>=1)
+	    {
+	      var pgcount = ((tt.length - 1) / perpage) + 1;
+	      var cal = start * perpage;
+	      var strt = cal - perpage;
+
+	      if(pgcount>=1)
+	      {
+	        for(var p=1;p<=pgcount;p++)
+	        {
+	        	if(start==p)
+	        	{
+	        		$('.modal-pagination').append('<li class="active"><a href="javascript:;"  data-page="'+p+'">'+p+'</a></li>');
+	        	}else{
+	          		$('.modal-pagination').append('<li><a href="javascript:;" class="pagination_click" data-page="'+p+'">'+p+'</a></li>');
+	        	}
+	        }
+	        var lmtpage = strt + perpage;
+
+	        if(tt.length <= lmtpage)
+	        {
+	          lmtpage = tt.length;
+	        }
+
+	        for(var t= strt;t<lmtpage;t++)
+	        {
+	        	$(".srch:contains("+tt[t]+")").css("display", "block");
+	        }
+	      }
+	    }else{
+	    	$('.srch').css('display','none');
+	    	$('.no-found').css('display','block');
+	  		$('.modal-pagination').html('');
+	    }
+	  });
+	}
+
+	searchcolletion(1,'',12);
+
+	$(function(){	
+
+		$(document).on('click','.pagination_click',function(e){
+			e.preventDefault();
+			var srval = $('#search_collection').val();
+			var srpg = $(this).attr('data-page');
+			searchcolletion(srpg,srval,12);
+		});	
+
+		$('#search_collection').keyup(function(){
+		    var srval = $(this).val();
+		 	searchcolletion(1,srval,12);
+		 });
+
+		$('#add_new_cl').click(function(){
+			$('.active-box').slideUp();
+			$('#add_cl_div').slideDown();
+			$('.collection-add-btn').css('display','none');
+		});
+		$('.back-btn').click(function(){
+			$('#add_cl_div').slideUp();
+			$('.active-box').slideDown();
+			$('.collection-add-btn').css('display','block');
+		});
+		$('.collection-list').click( function(){
+			$(this).addClass('active');
+		});
+		$('#add_cl_form').submit(function(){
+			$('#alertdiv').css('display','none');
+			$.ajax({
+				type:'post',
+				url:'/add-new-collection',
+				data:$(this).serialize()+'&p='+'280373',
+				success:function(data){
+					$('#add_cl_form')[0].reset();
+					$('#add_cl_div').css('display','none');
+					var obj=JSON.parse(data);
+					if(obj.success=='true')
+					{
+						window.location.reload();
+					}else{
+						$('#alertdiv').html('something went wrong..');
+						$('#alertdiv').css('display','block');
+					}
+				}
+			});
+			// $('form button[type="submit"]').prop("disabled", true);
+		});
+		$(document).on('click','.add-to-cl',function(){
+			$('#alertdiv').css('display','none');
+			var cl_value=$(this).attr('data-id');
+			if(cl_value!='')
+			{
+				$.ajax({
+					type:'post',
+					url:'/add-image-collection',
+					data:'cl='+cl_value+'&p='+'280373',
+					success:function(data){
+						// $('#add_cl_form')[0].reset();
+						// $('#add_cl_div').css('display','none');
+						var obj=JSON.parse(data);
+						if(obj.success=='true')
+						{
+							window.location.reload();
+						}else{
+							$('#alertdiv').html('This image is already added in this collection.');
+							$('#alertdiv').css('display','block');
+						}
+					}
+				});
+			}
+		});
+
+		$(document).on('click','.delete-from-cl',function(){
+			$('#alertdiv').css('display','none');
+			var cl_value=$(this).attr('data-id');
+			if(cl_value!='')
+			{
+				$.ajax({
+					type:'post',
+					url:'/remove-image-collection',
+					data:'cl='+cl_value+'&p='+'280373',
+					success:function(data){
+						// $('#add_cl_form')[0].reset();
+						// $('#add_cl_div').css('display','none');
+						var obj=JSON.parse(data);
+						if(obj.success=='true')
+						{
+							window.location.reload();
+						}else{
+							$('#alertdiv').html('something went wrong..');
+							$('#alertdiv').css('display','block');
+						}
+					}
+				});
+			}
+		});
+	});
+	$('#flexgridPhotogr1').flexImages({rowHeight: 180, truncate: 1, maxRows: 3});
+
+	$('.followuser').click(function(){
+
+		var fbtn = $(this);
+		var id = fbtn.attr('data-id');
+		if(id!='' && id!=0)
+		{
+			$.ajax({
+				type:'post',
+				url:'/followuser',
+				data:'id='+id,
+				success:function(data){
+					var obj = JSON.parse(data);
+					if(obj.success=='true')
+					{
+						fbtn.css('display','none');
+						$('.unfollowuser').css('display','inline-block');
+					}
+					
+				}
+			});
+		}
+	});
+
+	$('.unfollowuser').click(function(){
+
+		var fbtn = $(this);
+		var id = fbtn.attr('data-id');
+		if(id!='' && id!=0)
+		{
+			$.ajax({
+				type:'post',
+				url:'/unfollowuser',
+				data:'id='+id,
+				success:function(data){
+					var obj = JSON.parse(data);
+					if(obj.success=='true')
+					{
+						fbtn.css('display','none');
+						$('.followuser').css('display','inline-block');
+					}
+				}
+			});
+		}
+	});
+
+	// for download image
+	$('.buttondownload').click(function(){
+		$('#downloadimage').submit();
+	});
+</script>
